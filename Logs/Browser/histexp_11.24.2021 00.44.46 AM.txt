@@ -1,0 +1,531 @@
+11/24/2021 00:51:56 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit?usp=drive_web&ouid=112456009622891420491&rtpof=true
+11/24/2021 00:51:56 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit?rtpof=true
+11/24/2021 00:52:01 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit
+11/24/2021 00:58:12 AM	Java-lisp-interpreter/src/main at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main
+11/24/2021 00:57:40 AM	Java-lisp-interpreter/BasicExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/BasicExpression.java
+11/24/2021 00:57:40 AM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/24/2021 00:58:18 AM	Java-lisp-interpreter/src/main/lisp/evaluator at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+11/24/2021 00:58:12 AM	Java-lisp-interpreter/src/main/lisp at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp
+11/24/2021 00:56:46 AM	Java-lisp-interpreter/BasicExpression.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/BasicExpression.java&sa=D&source=docs&ust=1637737005327000&usg=AOvVaw3hNz3E3AUKujWcw54kc57E
+11/24/2021 00:59:22 AM	lisp interpreter in c - Google Search	https://www.google.com/search?q=lisp+interpreter+in+c&rlz=1C1SQJL_enUS810US810&oq=lisp+interpreter+in+c&aqs=chrome..69i57j35i39j0i512l3j69i60l3.4303j0j7&sourceid=chrome&ie=UTF-8
+11/24/2021 00:59:33 AM	rui314/minilisp: A readable lisp in less than 1k lines of C	https://github.com/rui314/minilisp
+11/24/2021 01:02:00 AM	COMP 524 (39 unread)	https://piazza.com/class/ksf2o98md07hl
+11/24/2021 01:02:04 AM	COMP 524 (39 unread)	https://piazza.com/class/ksf2o98md07hl?cid=19
+11/24/2021 01:02:02 AM	COMP 524 (39 unread)	https://piazza.com/class/ksf2o98md07hl?cid=115
+11/24/2021 01:02:03 AM	COMP 524 (39 unread)	https://piazza.com/class/ksf2o98md07hl?cid=77
+11/24/2021 01:02:02 AM	COMP 524 (39 unread)	https://piazza.com/class/ksf2o98md07hl?cid=168
+11/24/2021 01:00:20 AM	lisp interpreter in c - Google Search	https://www.google.com/search?q=lisp+interpreter+in+c&rlz=1C1SQJL_enUS810US810&oq=lisp+interpreter+in+c&aqs=chrome..69i57j35i39j0i512l3j69i60l3.4303j0j7&sourceid=chrome&ie=UTF-8
+11/24/2021 01:00:20 AM	rui314/minilisp: A readable lisp in less than 1k lines of C	https://github.com/rui314/minilisp
+11/24/2021 00:59:50 AM	minilisp/examples at master · rui314/minilisp	https://github.com/rui314/minilisp/tree/master/examples
+11/24/2021 00:59:51 AM	minilisp/minilisp.c at master · rui314/minilisp	https://github.com/rui314/minilisp/blob/master/minilisp.c
+11/24/2021 01:00:23 AM	lisp interpreter - Google Search	https://www.google.com/search?q=lisp+interpreter+&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvL0CsyO2B9aCtCZtOjqrfmPAX3J8Q%3A1637733561718&ei=udSdYeyvK5TDytMPxqiyCA&ved=0ahUKEwis8Lr5qLD0AhWUoXIEHUaUDAEQ4dUDCA8&uact=5&oq=lisp+interpreter+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBQgAEIAEMgoIABCABBCHAhAUMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIIxCwAxAnOgcIABBHELADOgYIABAWEB5KBAhBGABQ-AFY6wRgrwZoAXACeACAAYsBiAHGA5IBAzEuM5gBAKABAcgBCcABAQ&sclient=gws-wiz
+11/24/2021 01:00:27 AM	(How to Write a (Lisp) Interpreter (in Python))	https://norvig.com/lispy.html
+11/24/2021 01:02:06 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=256
+11/24/2021 01:02:22 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=247
+11/24/2021 01:02:25 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=165
+11/24/2021 01:08:26 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=13
+11/24/2021 12:19:47 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit
+11/24/2021 12:23:01 PM	COMP 524 (38 unread)	https://piazza.com/class/ksf2o98md07hl
+11/24/2021 12:25:10 PM	COMP 524 (38 unread)	https://piazza.com/class/ksf2o98md07hl?cid=13
+11/24/2021 12:28:55 PM		https://piazza.com/class
+11/24/2021 12:28:56 PM	COMP 524 (38 unread)	https://piazza.com/class/ksf2o98md07hl
+11/24/2021 12:31:04 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl?cid=13
+11/24/2021 12:28:47 PM	Piazza • Ask. Answer. Explore. Whenever.	https://piazza.com/signup
+11/24/2021 12:29:00 PM	COMP 524 (38 unread)	https://piazza.com/class/ksf2o98md07hl?cid=247
+11/24/2021 12:27:52 PM	Piazza • Ask. Answer. Explore. Whenever.	https://piazza.com/class?cid=kwdq63rp83pk7&nid=ksf2o98md07hl&token=ApzvcW7OkKY
+11/24/2021 12:28:30 PM	Piazza • Ask. Answer. Explore. Whenever.	https://piazza.com/
+11/24/2021 12:28:25 PM	Piazza Network	https://piazza.com/careers/dashboard#/my_profile
+11/24/2021 12:30:04 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl?cid=259
+11/24/2021 15:19:07 PM	Lectures - Google Drive	https://drive.google.com/drive/u/0/folders/14RRzusx6-WneUxkScwrdUR3MZFz_f1I9
+11/24/2021 15:19:23 PM	6-Lisp-SExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/18s9XyQLzpKplzYPtUOfjnVNQvShXxWj-/edit?usp=drive_web&ouid=112456009622891420491&rtpof=true
+11/24/2021 15:19:23 PM	6-Lisp-SExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/18s9XyQLzpKplzYPtUOfjnVNQvShXxWj-/edit?rtpof=true
+11/24/2021 15:19:23 PM	6-Lisp-SExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/18s9XyQLzpKplzYPtUOfjnVNQvShXxWj-/edit
+11/24/2021 15:19:25 PM	6-Lisp-SExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/18s9XyQLzpKplzYPtUOfjnVNQvShXxWj-/edit#slide=id.p1
+11/24/2021 15:19:30 PM	6-Lisp-SExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/18s9XyQLzpKplzYPtUOfjnVNQvShXxWj-/edit#slide=id.p2
+11/24/2021 15:19:37 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit?usp=drive_web&ouid=112456009622891420491&rtpof=true
+11/24/2021 15:19:37 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit?rtpof=true
+11/24/2021 15:19:38 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit
+11/24/2021 15:19:40 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p1
+11/24/2021 15:19:51 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit?usp=drive_web&ouid=112456009622891420491&rtpof=true
+11/24/2021 15:19:51 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit?rtpof=true
+11/24/2021 15:19:53 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit
+11/24/2021 15:19:54 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p1
+11/24/2021 15:27:13 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p12
+11/24/2021 15:27:08 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p13
+11/24/2021 15:27:08 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p11
+11/24/2021 15:27:09 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p10
+11/24/2021 15:27:08 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p14
+11/24/2021 15:27:08 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p15
+11/24/2021 15:27:07 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p16
+11/24/2021 15:27:10 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p9
+11/24/2021 15:27:10 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p8
+11/24/2021 15:27:11 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p7
+11/24/2021 15:27:11 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p6
+11/24/2021 15:28:56 PM	LISP - Lists	https://www.tutorialspoint.com/lisp/lisp_lists.htm
+11/24/2021 15:30:55 PM	5-Tour-Lisp.pptx - Google Slides	https://docs.google.com/presentation/d/1BbdgtiLnQGsFe5RIGIrebbRqp20jnSmI/edit?usp=drive_web&ouid=112456009622891420491&rtpof=true
+11/24/2021 15:30:55 PM	5-Tour-Lisp.pptx - Google Slides	https://docs.google.com/presentation/d/1BbdgtiLnQGsFe5RIGIrebbRqp20jnSmI/edit?rtpof=true
+11/24/2021 15:30:56 PM	5-Tour-Lisp.pptx - Google Slides	https://docs.google.com/presentation/d/1BbdgtiLnQGsFe5RIGIrebbRqp20jnSmI/edit
+11/24/2021 15:30:57 PM	5-Tour-Lisp.pptx - Google Slides	https://docs.google.com/presentation/d/1BbdgtiLnQGsFe5RIGIrebbRqp20jnSmI/edit#slide=id.p1
+11/24/2021 15:30:18 PM	6-Lisp-SExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/18s9XyQLzpKplzYPtUOfjnVNQvShXxWj-/edit#slide=id.p8
+11/24/2021 15:30:19 PM	6-Lisp-SExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/18s9XyQLzpKplzYPtUOfjnVNQvShXxWj-/edit#slide=id.p11
+11/24/2021 15:31:06 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p12
+11/24/2021 15:29:11 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit?usp=drive_web&ouid=112456009622891420491&rtpof=true
+11/24/2021 15:29:11 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit?rtpof=true
+11/24/2021 15:29:12 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit
+11/24/2021 15:30:50 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p1
+11/24/2021 15:31:14 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p13
+11/24/2021 15:31:15 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p14
+11/24/2021 15:31:15 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p15
+11/24/2021 15:30:27 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p16
+11/24/2021 15:30:39 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p5
+11/24/2021 15:30:36 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p19
+11/24/2021 15:28:52 PM	lisp isList - Google Search	https://www.google.com/search?q=lisp+isList&rlz=1C1SQJL_enUS810US810&oq=lisp+isList&aqs=chrome..69i57j0i13j0i8i13i30.2705j0j7&sourceid=chrome&ie=UTF-8
+11/24/2021 15:28:54 PM	lisp isList() - Google Search	https://www.google.com/search?q=lisp+isList%28%29&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvKfR1K8dKZvFzf24cJkyaOttbLu0g%3A1637785731248&ei=g6CeYbC4DsWfytMPy520sAM&ved=0ahUKEwjwheql67H0AhXFj3IEHcsODTYQ4dUDCA4&uact=5&oq=lisp+isList%28%29&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEA0QHjIICAAQCBANEB46BwgAEEcQsANKBAhBGABQ5wNYmAVg8gZoAXACeACAAWGIAbABkgEBMpgBAKABAcgBCMABAQ&sclient=gws-wiz
+11/24/2021 15:29:05 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p6
+11/24/2021 15:30:13 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p11
+11/24/2021 15:29:24 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p12
+11/24/2021 15:29:46 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p13
+11/24/2021 15:29:46 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p14
+11/24/2021 15:29:48 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p15
+11/24/2021 15:30:07 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p21
+11/24/2021 15:30:10 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p28
+11/24/2021 15:30:11 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p35
+11/24/2021 15:30:12 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p69
+11/24/2021 15:30:29 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p17
+11/24/2021 15:30:48 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p10
+11/24/2021 15:36:50 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/24/2021 15:36:36 PM	Java-lisp-interpreter/NilAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/NilAtom.java
+11/24/2021 15:36:18 PM	Java-lisp-interpreter/Atom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/Atom.java
+11/24/2021 15:35:05 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p11
+11/24/2021 15:33:44 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p12
+11/24/2021 15:33:45 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p13
+11/24/2021 15:33:45 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p14
+11/24/2021 15:33:46 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p15
+11/24/2021 15:36:59 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p5
+11/24/2021 15:36:59 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p6
+11/24/2021 15:34:07 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p7
+11/24/2021 15:36:17 PM	Java-lisp-interpreter/Atom.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/Atom.java&sa=D&source=docs&ust=1637789776141000&usg=AOvVaw0QVNLIYT0iV2LIN4MctZrK
+11/24/2021 15:39:26 PM	6-Lisp-SExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/18s9XyQLzpKplzYPtUOfjnVNQvShXxWj-/edit#slide=id.p8
+11/24/2021 15:39:27 PM	6-Lisp-SExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/18s9XyQLzpKplzYPtUOfjnVNQvShXxWj-/edit#slide=id.p11
+11/24/2021 15:40:48 PM	Java-lisp-interpreter/BasicExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/BasicExpression.java
+11/24/2021 15:38:43 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/24/2021 15:37:35 PM	Java-lisp-interpreter/AbstractSExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractSExpression.java
+11/24/2021 15:38:20 PM	Java-lisp-interpreter/Atom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/Atom.java
+11/24/2021 15:41:18 PM	Java-lisp-interpreter/AbstractAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractAtom.java
+11/24/2021 15:38:10 PM	Java-lisp-interpreter/ExpressionFactory.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/ExpressionFactory.java
+11/24/2021 15:39:31 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p16
+11/24/2021 15:39:33 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p8
+11/24/2021 15:39:33 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p7
+11/24/2021 15:39:52 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p11
+11/24/2021 15:39:58 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p12
+11/24/2021 15:39:59 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p13
+11/24/2021 15:40:00 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p14
+11/24/2021 15:40:02 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p15
+11/24/2021 15:39:44 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p5
+11/24/2021 15:39:45 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p6
+11/24/2021 15:44:35 PM	8-Lisp-BasicEval-2.pptx - Google Slides	https://docs.google.com/presentation/d/1NfBJuNOabGShw9U1OtlEYm1WBLi1kt-q/edit?usp=drive_web&ouid=112456009622891420491&rtpof=true
+11/24/2021 15:44:51 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p19
+11/24/2021 15:44:35 PM	8-Lisp-BasicEval-2.pptx - Google Slides	https://docs.google.com/presentation/d/1NfBJuNOabGShw9U1OtlEYm1WBLi1kt-q/edit?rtpof=true
+11/24/2021 15:44:36 PM	8-Lisp-BasicEval-2.pptx - Google Slides	https://docs.google.com/presentation/d/1NfBJuNOabGShw9U1OtlEYm1WBLi1kt-q/edit
+11/24/2021 15:44:36 PM	8-Lisp-BasicEval-2.pptx - Google Slides	https://docs.google.com/presentation/d/1NfBJuNOabGShw9U1OtlEYm1WBLi1kt-q/edit#slide=id.p1
+11/24/2021 15:44:41 PM	8-Lisp-BasicEval-2.pptx - Google Slides	https://docs.google.com/presentation/d/1NfBJuNOabGShw9U1OtlEYm1WBLi1kt-q/edit#slide=id.p2
+11/24/2021 15:48:14 PM	Java-lisp-interpreter/BasicExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/BasicExpression.java
+11/24/2021 15:47:43 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/24/2021 15:48:01 PM	Java-lisp-interpreter/AbstractSExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractSExpression.java
+11/24/2021 15:47:42 PM	Java-lisp-interpreter/ExpressionFactory.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/ExpressionFactory.java
+11/24/2021 15:51:47 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p5
+11/24/2021 15:51:48 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p6
+11/24/2021 15:52:35 PM	COMP 524 (38 unread)	https://piazza.com/class/ksf2o98md07hl
+11/24/2021 15:52:58 PM	COMP 524 (38 unread)	https://piazza.com/class/ksf2o98md07hl?cid=13
+11/24/2021 15:53:02 PM	COMP 524 (38 unread)	https://piazza.com/class/ksf2o98md07hl?cid=260
+11/24/2021 15:58:40 PM	Java-lisp-interpreter/AbstractSExpression.java at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/parser/terms/AbstractSExpression.java#L3
+11/24/2021 15:58:44 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/parser/terms
+11/24/2021 15:58:43 PM	Java-lisp-interpreter/AbstractSExpression.java at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/parser/terms/AbstractSExpression.java
+11/24/2021 15:58:47 PM	Java-lisp-interpreter/SExpression.java at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/parser/terms/SExpression.java
+11/24/2021 16:01:42 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p33
+11/24/2021 16:01:43 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p36
+11/24/2021 16:01:44 PM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p44
+11/24/2021 16:01:48 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p20
+11/24/2021 16:01:48 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p28
+11/24/2021 16:01:50 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p29
+11/24/2021 16:01:52 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p30
+11/24/2021 16:01:55 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p31
+11/24/2021 16:01:55 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p32
+11/24/2021 16:01:57 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p33
+11/24/2021 16:01:57 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p34
+11/24/2021 16:01:58 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p35
+11/24/2021 16:01:59 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p38
+11/24/2021 16:02:05 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p46
+11/24/2021 16:02:07 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p55
+11/24/2021 16:02:09 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p57
+11/24/2021 16:02:10 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p4
+11/24/2021 16:02:13 PM	8-Lisp-BasicEval-2.pptx - Google Slides	https://docs.google.com/presentation/d/1NfBJuNOabGShw9U1OtlEYm1WBLi1kt-q/edit#slide=id.p6
+11/24/2021 16:02:59 PM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p12
+11/24/2021 16:03:51 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p5
+11/24/2021 16:03:46 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p6
+11/24/2021 16:03:46 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p7
+11/24/2021 16:03:47 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p8
+11/24/2021 16:03:47 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p9
+11/24/2021 16:03:49 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p40
+11/24/2021 16:03:50 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p41
+11/24/2021 16:03:50 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p42
+11/24/2021 16:06:50 PM	9-Lisp-Basic-Environment-setq.pptx - Google Slides	https://docs.google.com/presentation/d/19WW4-t5oQy4xyvT-l_MDx3jb0o5-yRKy/edit?usp=drive_web&ouid=112456009622891420491&rtpof=true
+11/24/2021 16:06:50 PM	9-Lisp-Basic-Environment-setq.pptx - Google Slides	https://docs.google.com/presentation/d/19WW4-t5oQy4xyvT-l_MDx3jb0o5-yRKy/edit?rtpof=true
+11/24/2021 16:06:52 PM	9-Lisp-Basic-Environment-setq.pptx - Google Slides	https://docs.google.com/presentation/d/19WW4-t5oQy4xyvT-l_MDx3jb0o5-yRKy/edit
+11/24/2021 16:06:52 PM	9-Lisp-Basic-Environment-setq.pptx - Google Slides	https://docs.google.com/presentation/d/19WW4-t5oQy4xyvT-l_MDx3jb0o5-yRKy/edit#slide=id.p1
+11/24/2021 16:06:52 PM	9-Lisp-Basic-Environment-setq.pptx - Google Slides	https://docs.google.com/presentation/d/19WW4-t5oQy4xyvT-l_MDx3jb0o5-yRKy/edit#slide=id.p14
+11/24/2021 16:06:54 PM	9-Lisp-Basic-Environment-setq.pptx - Google Slides	https://docs.google.com/presentation/d/19WW4-t5oQy4xyvT-l_MDx3jb0o5-yRKy/edit#slide=id.p17
+11/24/2021 16:06:54 PM	9-Lisp-Basic-Environment-setq.pptx - Google Slides	https://docs.google.com/presentation/d/19WW4-t5oQy4xyvT-l_MDx3jb0o5-yRKy/edit#slide=id.p18
+11/24/2021 16:06:55 PM	9-Lisp-Basic-Environment-setq.pptx - Google Slides	https://docs.google.com/presentation/d/19WW4-t5oQy4xyvT-l_MDx3jb0o5-yRKy/edit#slide=id.p19
+11/24/2021 16:06:56 PM	9-Lisp-Basic-Environment-setq.pptx - Google Slides	https://docs.google.com/presentation/d/19WW4-t5oQy4xyvT-l_MDx3jb0o5-yRKy/edit#slide=id.p20
+11/24/2021 16:08:28 PM	Java-lisp-interpreter/src/main/lisp/evaluator/basic at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+11/24/2021 16:09:58 PM	Java-lisp-interpreter/src/main/lisp/evaluator/basic at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator/basic
+11/24/2021 16:10:11 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p19
+11/24/2021 16:08:18 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p6
+11/24/2021 16:08:19 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p7
+11/24/2021 16:08:19 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p8
+11/24/2021 16:08:19 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p9
+11/24/2021 16:08:19 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p10
+11/24/2021 16:08:39 PM	Java-lisp-interpreter/AtomEvaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/basic/AtomEvaluator.java
+11/24/2021 16:09:50 PM	Java-lisp-interpreter/CarEvaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/basic/CarEvaluator.java
+11/24/2021 16:10:05 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p12
+11/24/2021 16:10:09 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p18
+11/24/2021 16:16:38 PM	Java-lisp-interpreter/src/main at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main
+11/24/2021 16:16:38 PM	Java-lisp-interpreter/Main.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/Main.java
+11/24/2021 16:16:33 PM	Java-lisp-interpreter/src/main/lisp/evaluator at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+11/24/2021 16:16:21 PM	Java-lisp-interpreter/OperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/OperationRegisterer.java
+11/24/2021 16:15:30 PM	Java-lisp-interpreter/BasicOperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/BasicOperationRegisterer.java
+11/24/2021 16:16:29 PM	Java-lisp-interpreter/OperationManager.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/OperationManager.java
+11/24/2021 16:15:29 PM	Java-lisp-interpreter/BasicOperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/BasicOperationRegisterer.java&sa=D&source=docs&ust=1637792128797000&usg=AOvVaw2O-kzKESvxP0G1neCU9hfa
+11/24/2021 16:17:28 PM	Java-lisp-interpreter/Main.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/Main.java
+11/24/2021 16:18:08 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl?cid=242
+11/24/2021 16:17:25 PM	Java-lisp-interpreter/BasicOperationRegisterer.java at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/evaluator/BasicOperationRegisterer.java#L24
+11/24/2021 16:26:03 PM	Java-lisp-interpreter/SExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/SExpression.java
+11/24/2021 16:26:20 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p20
+11/24/2021 16:26:22 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p28
+11/24/2021 16:26:23 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p29
+11/24/2021 16:26:28 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p30
+11/24/2021 16:26:41 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p31
+11/24/2021 16:26:46 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p32
+11/24/2021 16:27:06 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p33
+11/24/2021 16:27:06 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p34
+11/24/2021 16:27:07 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p35
+11/24/2021 16:27:12 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p38
+11/24/2021 16:27:13 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p40
+11/24/2021 16:27:09 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p36
+11/24/2021 16:27:10 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p37
+11/24/2021 16:27:14 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p39
+11/24/2021 16:31:32 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/24/2021 16:30:53 PM	Java-lisp-interpreter/NilAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/NilAtom.java
+11/24/2021 16:30:24 PM	Java-lisp-interpreter/Atom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/Atom.java
+11/24/2021 16:30:36 PM	Java-lisp-interpreter/AbstractAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractAtom.java
+11/24/2021 16:27:39 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p19
+11/24/2021 16:27:42 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p20
+11/24/2021 16:27:43 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p28
+11/24/2021 16:27:43 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p29
+11/24/2021 16:27:45 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p30
+11/24/2021 16:27:30 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p46
+11/24/2021 16:27:34 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p4
+11/24/2021 16:27:27 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p40
+11/24/2021 16:27:28 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p41
+11/24/2021 16:27:28 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p42
+11/24/2021 16:27:38 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p12
+11/24/2021 16:27:39 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p18
+11/24/2021 16:27:28 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p43
+11/24/2021 16:27:28 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p44
+11/24/2021 16:27:29 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p45
+11/24/2021 16:27:31 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p47
+11/24/2021 16:27:31 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p48
+11/24/2021 16:27:31 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p49
+11/24/2021 16:31:28 PM	Java-lisp-interpreter/IdentifierAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/IdentifierAtom.java
+11/24/2021 16:31:41 PM	Java-lisp-interpreter/QuoteAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/QuoteAtom.java
+11/24/2021 16:35:38 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl?cid=13
+11/24/2021 16:35:37 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl?cid=136
+11/24/2021 16:35:41 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl?cid=227
+11/24/2021 16:33:34 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/24/2021 16:35:30 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl?cid=229
+11/24/2021 16:35:27 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl?cid=244
+11/24/2021 16:34:49 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl?cid=251
+11/24/2021 16:36:02 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/parser/terms
+11/24/2021 16:35:50 PM	Java-lisp-interpreter/AbstractAtom.java at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/parser/terms/AbstractAtom.java
+11/24/2021 16:36:04 PM	Java-lisp-interpreter/QuoteAtom.java at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/parser/terms/QuoteAtom.java
+11/24/2021 16:39:51 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit
+11/24/2021 16:38:53 PM	CLHS: Special Operator QUOTE	http://clhs.lisp.se/Body/s_quote.htm
+11/24/2021 16:39:35 PM	CLHS: Accessor CAR, CDR, CAAR, CADR, CDAR...	http://clhs.lisp.se/Body/f_car_c.htm
+11/24/2021 16:38:52 PM	CLHS: Special Operator QUOTE	https://www.google.com/url?q=http://clhs.lisp.se/Body/s_quote.htm&sa=D&source=docs&ust=1637793531776000&usg=AOvVaw0TPCrcnFt05XZdjga8t88J
+11/24/2021 16:39:35 PM	CLHS: Accessor CAR, CDR, CAAR, CADR, CDAR...	https://www.google.com/url?q=http://clhs.lisp.se/Body/f_car_c.htm&sa=D&source=docs&ust=1637793574659000&usg=AOvVaw20NiuupoQGQdINqudyAzKq
+11/24/2021 16:44:40 PM	CLHS: Special Operator QUOTE	http://clhs.lisp.se/Body/s_quote.htm
+11/24/2021 16:44:40 PM	CLHS: Special Operator QUOTE	https://www.google.com/url?q=http://clhs.lisp.se/Body/s_quote.htm&sa=D&source=docs&ust=1637793531776000&usg=AOvVaw0TPCrcnFt05XZdjga8t88J
+11/25/2021 11:26:10 AM	6-Lisp-SExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/18s9XyQLzpKplzYPtUOfjnVNQvShXxWj-/edit#slide=id.p11
+11/25/2021 11:26:07 AM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p12
+11/25/2021 11:26:10 AM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p44
+11/25/2021 11:26:10 AM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p30
+11/25/2021 11:26:07 AM	8-Lisp-BasicEval-2.pptx - Google Slides	https://docs.google.com/presentation/d/1NfBJuNOabGShw9U1OtlEYm1WBLi1kt-q/edit#slide=id.p6
+11/25/2021 11:26:08 AM	9-Lisp-Basic-Environment-setq.pptx - Google Slides	https://docs.google.com/presentation/d/19WW4-t5oQy4xyvT-l_MDx3jb0o5-yRKy/edit#slide=id.p20
+11/25/2021 11:26:10 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.ygd9b08o3cm2
+11/25/2021 12:04:41 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/25/2021 12:10:21 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/25/2021 12:06:20 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p1
+11/25/2021 12:06:32 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p31
+11/25/2021 12:06:32 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p32
+11/25/2021 12:06:37 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p33
+11/25/2021 12:06:38 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p34
+11/25/2021 12:06:38 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p35
+11/25/2021 12:07:11 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p38
+11/25/2021 12:06:41 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p36
+11/25/2021 12:07:11 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p37
+11/25/2021 12:06:54 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p39
+11/25/2021 12:06:20 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p2
+11/25/2021 12:06:27 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p3
+11/25/2021 12:11:34 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/25/2021 12:11:05 PM	Java-lisp-interpreter/ExpressionFactory.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/ExpressionFactory.java
+11/25/2021 12:10:59 PM	Java-lisp-interpreter/BasicOperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/BasicOperationRegisterer.java
+11/25/2021 12:11:21 PM	Java-lisp-interpreter/src/main/lisp/parser at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser
+11/25/2021 12:11:30 PM	Java-lisp-interpreter/IdentifierAtomFactory.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/IdentifierAtomFactory.java
+11/25/2021 12:14:43 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.1fob9te
+11/25/2021 12:14:52 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl?cid=234
+11/25/2021 12:24:19 PM	COMP 524 (36 unread)	https://piazza.com/class/ksf2o98md07hl?cid=227
+11/25/2021 12:24:02 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/25/2021 12:24:21 PM	COMP 524 (36 unread)	https://piazza.com/class/ksf2o98md07hl?cid=239
+11/25/2021 12:20:48 PM	COMP 524 (36 unread)	https://piazza.com/class/ksf2o98md07hl?cid=242
+11/25/2021 12:22:08 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p20
+11/25/2021 12:22:08 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p28
+11/25/2021 12:22:09 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p46
+11/25/2021 12:22:07 PM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p18
+11/25/2021 12:24:00 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.ppm3jkf4g8xc
+11/25/2021 12:26:19 PM	Java Tutorial - Java Files.readAllLines(Path path, Charset cs)	https://www.google.com/url?q=http://www.java2s.com/Tutorials/Java/java.nio.file/Files/Java_Files_readAllLines_Path_path_Charset_cs_.htm&sa=D&source=docs&ust=1637864775879000&usg=AOvVaw2_QFMsMp3Y3Mi9i5ChmnG0
+11/25/2021 12:26:20 PM	Java Tutorial - Java Files.readAllLines(Path path, Charset cs)	http://www.java2s.com/Tutorials/Java/java.nio.file/Files/Java_Files_readAllLines_Path_path_Charset_cs_.htm
+11/25/2021 12:34:27 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/25/2021 12:31:36 PM	Java read file line by line - JournalDev	https://www.google.com/url?q=https://www.journaldev.com/709/java-read-file-line-by-line&sa=D&source=docs&ust=1637865095198000&usg=AOvVaw2D5aoUos-U78qU_6fDLY7I
+11/25/2021 12:31:36 PM	Java read file line by line - JournalDev	https://www.journaldev.com/709/java-read-file-line-by-line
+11/25/2021 12:40:10 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/25/2021 12:40:11 PM	CLHS: Function LOAD	http://clhs.lisp.se/Body/f_load.htm
+11/25/2021 12:44:58 PM	COMP 524 (35 unread)	https://piazza.com/class/ksf2o98md07hl?cid=244
+11/25/2021 12:44:59 PM	COMP 524 (35 unread)	https://piazza.com/class/ksf2o98md07hl?cid=238
+11/25/2021 12:44:41 PM	COMP 524 (35 unread)	https://piazza.com/class/ksf2o98md07hl?cid=251
+11/25/2021 12:44:51 PM	COMP 524 (35 unread)	https://piazza.com/class/ksf2o98md07hl?cid=250
+11/25/2021 12:45:02 PM	COMP 524 (35 unread)	https://piazza.com/class/ksf2o98md07hl?cid=258
+11/25/2021 12:50:28 PM	Java-lisp-interpreter/ExpressionFactory.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/ExpressionFactory.java
+11/25/2021 13:02:53 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/25/2021 13:01:18 PM	Java-lisp-interpreter/src/main/lisp/evaluator/basic at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+11/25/2021 13:02:54 PM	CLHS: Accessor CAR, CDR, CAAR, CADR, CDAR...	http://clhs.lisp.se/Body/f_car_c.htm
+11/25/2021 13:01:19 PM	Java-lisp-interpreter/src/main/lisp/evaluator/basic at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator/basic
+11/25/2021 13:01:23 PM	Java-lisp-interpreter/CarEvaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/basic/CarEvaluator.java
+11/25/2021 13:01:09 PM	Issues	https://github.com/issues
+11/25/2021 13:01:16 PM	Java-lisp-interpreter/src/main/lisp/evaluator/environment at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator/environment
+11/25/2021 13:02:54 PM	CLHS: Accessor CAR, CDR, CAAR, CADR, CDAR...	https://www.google.com/url?q=http://clhs.lisp.se/Body/f_car_c.htm&sa=D&source=docs&ust=1637866966917000&usg=AOvVaw2avm4mPXD4Y_Y8J3bWQx8E
+11/25/2021 13:03:09 PM	CLHS: Glossary-Section C	http://clhs.lisp.se/Body/26_glo_c.htm#car
+11/25/2021 13:23:39 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/25/2021 13:34:55 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/25/2021 13:35:30 PM	Java-lisp-interpreter/src/main/lisp/evaluator at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+11/25/2021 13:35:15 PM	Java-lisp-interpreter/BasicOperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/BasicOperationRegisterer.java
+11/25/2021 13:35:31 PM	Java-lisp-interpreter/OperationManager.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/OperationManager.java
+11/25/2021 13:35:20 PM	Java-lisp-interpreter/BuiltinOperationManagerSingleton.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/BuiltinOperationManagerSingleton.java
+11/25/2021 13:35:03 PM	Redirecting	https://www.google.com/url?q=http://lisp.evaluator.builtinoperationmanagersingleton&sa=D&source=docs&ust=1637868902253000&usg=AOvVaw0Dy_xLy1yNUWdwGWyz3lwp
+11/26/2021 00:14:50 AM	6-Lisp-SExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/18s9XyQLzpKplzYPtUOfjnVNQvShXxWj-/edit#slide=id.p11
+11/26/2021 00:14:52 AM	6-Lisp-SExpression.pptx - Google Slides	https://docs.google.com/presentation/d/1BjpOz4UL3sBDhHb3lT7T1UulpNZ8o9CY/edit#slide=id.p12
+11/26/2021 00:14:53 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/26/2021 00:14:52 AM	7-Lisp-Print.pptx - Google Slides	https://docs.google.com/presentation/d/193H5A-Z3v9nTQPu1LmcOpAmWaGrq3IsF/edit#slide=id.p44
+11/26/2021 00:14:48 AM	8-Lisp-BasicEval.pptx - Google Slides	https://docs.google.com/presentation/d/194oJKMXlGIA2ClEMXAZPAXaCnTmuoWj1/edit#slide=id.p46
+11/26/2021 00:14:48 AM	8-Lisp-BasicEval-2.pptx - Google Slides	https://docs.google.com/presentation/d/1NfBJuNOabGShw9U1OtlEYm1WBLi1kt-q/edit#slide=id.p6
+11/26/2021 00:14:48 AM	9-Lisp-Basic-Environment-setq.pptx - Google Slides	https://docs.google.com/presentation/d/19WW4-t5oQy4xyvT-l_MDx3jb0o5-yRKy/edit#slide=id.p20
+11/26/2021 00:24:01 AM	lisp environment - Google Search	https://www.google.com/search?q=lisp+environment&rlz=1C1SQJL_enUS810US810&oq=lisp+environment&aqs=chrome.0.0i512j0i22i30l5j69i61j69i60.1589j0j7&sourceid=chrome&ie=UTF-8
+11/26/2021 00:24:11 AM	8.5. Environments	https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node102.html
+11/26/2021 00:41:20 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/26/2021 00:40:57 AM	try...catch - JavaScript | MDN	https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
+11/26/2021 00:40:20 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.ppm3jkf4g8xc
+11/26/2021 00:44:30 AM	COMP 524 (33 unread)	https://piazza.com/class/ksf2o98md07hl?cid=239
+11/26/2021 00:43:54 AM	COMP 524 (33 unread)	https://piazza.com/class/ksf2o98md07hl?cid=242
+11/26/2021 01:18:26 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+11/26/2021 01:18:26 AM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/sakai-login-tool/container
+11/26/2021 01:18:19 AM	Sakai @ UNC :: Welcome	https://sakai.unc.edu/
+11/26/2021 01:18:26 AM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal
+11/26/2021 01:18:19 AM	Sakai @ UNC :: Welcome	http://sakai.unc.edu/welcome/
+11/26/2021 01:18:26 AM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal/clogin
+11/26/2021 01:18:32 AM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Start Here	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e
+11/26/2021 01:18:36 AM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Assignments	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e/tool/60936c6f-c8b6-4a2a-b716-9b643b51cd87
+11/26/2021 01:18:21 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZLJbsIwFEV%2FJfIenJgw1CJIKSyKREtE0i66qRzn0Vg1durndPj7hqGIShVr38H36E1R7HTD09bXZgPvLaAPvnbaID88JKR1hluBCrkRO0DuJc%2FT%2BxVn%2FZA3znorrSZBigjOK2vm1mC7A5eD%2B1ASHjerhNTeN8gpRfEmVL81sg9VS%2FNalaXV4Os%2BoqX7UEazdV6QYNH9Qhmxz7twoz17VdXQrnyrNJyMG6iUA%2Blpnq9JsFwk5CUUbDAUcgDjMoxlOWTxGOKbajySk4pt45tOhtjC0qAXxieEhSzqRVGPjYpwxKMJZ9EzCbLTxltlKmVerwMpjyLkd0WR9Y5jnsDhYUgnILPpHis%2FFLsL0NdjxS9dMvufJZ5ZTulFwbGt4Q9d4nKRWa3kd5BqbT%2FnDoSHhESEzo6Wvzcw%2BwE%3D&RelayState=ss%3Amem%3Aabd63599fb1942a7ab2c3d9996fe064d54d0ade0c468292fd520262c5336879c&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=i1lbGCjfZKEXex9inWc4vAsdcYQrRPMLsRHmDcQUnW76R52p1pCR7%2BRT4cF6Rw2enVvqSpYhwDhfvc%2FI5yR5REEvWrJPAd5VK1Yg%2B64UynazCeMgGMdF%2BLTfize5CK%2B859O9ZyX%2FSXlzWGDcfbFWFLzIa3DsO5bro%2BZ80KSv23pR%2BzUwuyA079UsL%2BMmooLp2hSkZNIwCcWxKZtCInJZ6ZRoQPRsdrtngFCTg7lvmG5vqBhc05POl48rw0uUuXtePtpQbwxHkTjKPIpxcHcba2liDh6m%2BeLLXai0hRGXBu6Uhr2SGffDei4gEp0QvibDC4nlRpk73N7FRsN%2Bkv5miA%3D%3D
+11/26/2021 01:19:16 AM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Assignments	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e/tool/60936c6f-c8b6-4a2a-b716-9b643b51cd87
+11/26/2021 01:19:21 AM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Assignments	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e/tool/60936c6f-c8b6-4a2a-b716-9b643b51cd87?panel=Main
+11/26/2021 04:32:30 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/26/2021 04:40:07 AM	COMP 524 (33 unread)	https://piazza.com/class/ksf2o98md07hl?cid=227
+11/26/2021 05:43:56 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/26/2021 05:44:37 AM	Java Tutorial - Java Files.readAllLines(Path path, Charset cs)	http://www.java2s.com/Tutorials/Java/java.nio.file/Files/Java_Files_readAllLines_Path_path_Charset_cs_.htm
+11/26/2021 05:44:37 AM	Java Tutorial - Java Files.readAllLines(Path path, Charset cs)	https://www.google.com/url?q=http://www.java2s.com/Tutorials/Java/java.nio.file/Files/Java_Files_readAllLines_Path_path_Charset_cs_.htm&sa=D&source=docs&ust=1637927076133000&usg=AOvVaw0J40DXqsPFe32GLs4g4z6M
+11/26/2021 06:05:13 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/26/2021 06:26:49 AM	java path - Google Search	https://www.google.com/search?q=java+path&rlz=1C1SQJL_enUS810US810&oq=java+path&aqs=chrome.0.69i59j0i433i512j69i60j69i65j69i60l4.1381j0j7&sourceid=chrome&ie=UTF-8
+11/26/2021 06:28:28 AM	Path (Java Platform SE 8 )	https://docs.oracle.com/javase/8/docs/api/java/nio/file/Path.html
+11/26/2021 08:47:16 AM	COMP 524 (33 unread)	https://piazza.com/class/ksf2o98md07hl?cid=239
+11/26/2021 08:52:46 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=227
+11/26/2021 08:57:04 AM	lisp charset - Google Search	https://www.google.com/search?q=lisp+charset&rlz=1C1SQJL_enUS810US810&oq=lisp+charset&aqs=chrome..69i57j35i39l2j0i512l2j69i60l3.1617j0j7&sourceid=chrome&ie=UTF-8
+11/26/2021 08:56:41 AM	2.2.1. Standard Characters	https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node22.html
+11/26/2021 08:56:50 AM	unicode - CLisp: set encoding to UTF-8 for strings - Stack Overflow	https://stackoverflow.com/questions/44184774/clisp-set-encoding-to-utf-8-for-strings
+11/26/2021 08:57:38 AM	java charset.forname - Google Search	https://www.google.com/search?q=java+charset.forname&rlz=1C1SQJL_enUS810US810&oq=java+charset.forname&aqs=chrome..69i57j0i512j0i22i30l8.4016j0j7&sourceid=chrome&ie=UTF-8
+11/26/2021 08:57:39 AM	Charset (Java Platform SE 7 )	https://docs.oracle.com/javase/7/docs/api/java/nio/charset/Charset.html
+11/26/2021 08:57:44 AM	Charset (Java Platform SE 7 )	https://docs.oracle.com/javase/7/docs/api/java/nio/charset/Charset.html#forName(java.lang.String)
+11/26/2021 09:08:05 AM	Paths (Java Platform SE 7 )	https://docs.oracle.com/javase/7/docs/api/java/nio/file/Paths.html
+11/26/2021 09:08:27 AM	Paths (Java Platform SE 7 )	https://docs.oracle.com/javase/7/docs/api/java/nio/file/Paths.html#get(java.lang.String,%20java.lang.String...)
+11/26/2021 09:09:35 AM	java string - Google Search	https://www.google.com/search?q=java+string&rlz=1C1SQJL_enUS810US810&oq=java+string&aqs=chrome.0.0i433i512l5j69i60l3.1066j0j7&sourceid=chrome&ie=UTF-8
+11/26/2021 09:09:36 AM	String (Java Platform SE 7 )	https://docs.oracle.com/javase/7/docs/api/java/lang/String.html
+11/26/2021 09:11:00 AM	concat string in java - Google Search	https://www.google.com/search?q=concat+string+in+java&rlz=1C1SQJL_enUS810US810&oq=concat+string+in+java&aqs=chrome..69i57j0i67j0i20i263i512j0i67j0i512j0i67j0i512j0i67j0i512l2.5370j0j7&sourceid=chrome&ie=UTF-8
+11/26/2021 09:10:56 AM	String Concatenation in Java - javatpoint	https://www.javatpoint.com/string-concatenation-in-java
+11/26/2021 09:12:14 AM	remove parts of string in java - Google Search	https://www.google.com/search?q=remove+parts+of+string+in+java&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvLSUExaoPKks_DYN9-NVMZG2fzpAg%3A1637935854671&ei=7uqgYea6KLGgytMP9tiW-Ag&ved=0ahUKEwjm6aDGmrb0AhUxkHIEHXasBY8Q4dUDCA4&uact=5&oq=remove+parts+of+string+in+java&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEB4yCAgAEAcQBRAeOgcIABBHELADOgcIABCwAxBDOgoIABCABBCHAhAUOgUIABCABDoGCAAQBxAeOggIABAIEAcQHkoECEEYAFD6CljXHmD7H2gCcAB4AIABugGIAb8OkgEEMy4xMpgBAKABAcgBCsABAQ&sclient=gws-wiz
+11/26/2021 09:11:07 AM	Remove part of string in Java - Stack Overflow	https://stackoverflow.com/questions/8694984/remove-part-of-string-in-java/8695026
+11/26/2021 09:12:09 AM	Remove or Replace part of a String in Java | Baeldung	https://www.baeldung.com/java-remove-replace-string-part
+11/26/2021 09:13:03 AM	reduce string in java - Google Search	https://www.google.com/search?q=reduce+string+in+java&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvIyTm54uVDAHXCl1ynHSTwH1pGgnA%3A1637935865670&ei=-eqgYZSeKI_DytMPvvGQ8AU&ved=0ahUKEwjU_r_Lmrb0AhWPoXIEHb44BF4Q4dUDCA4&uact=5&oq=reduce+string+in+java&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEAcQHjIGCAAQBxAeMgUIABCABDIICAAQCBAHEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoECAAQQzoGCAAQBRAeSgQIQRgAUABY1QhgvwxoAHAAeACAAbIBiAH4B5IBAzEuN5gBAKABAcABAQ&sclient=gws-wiz
+11/26/2021 09:12:20 AM	java - To Reduce a String - Stack Overflow	https://stackoverflow.com/questions/39887444/to-reduce-a-string
+11/26/2021 09:13:08 AM	remove first letter in string java - Google Search	https://www.google.com/search?q=remove+first+letter+in+string+java&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvLMxx-j7wCh3_LJ9kl7bV2QA_eFVw%3A1637935938866&ei=QuugYcuYNMvNytMP8cWDuAM&ved=0ahUKEwjLwbPumrb0AhXLpnIEHfHiADcQ4dUDCA4&uact=5&oq=remove+first+letter+in+string+java&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgoIABCABBCHAhAUMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoHCAAQRxCwAzoECCMQJzoFCAAQkQI6BAgAEEM6CAgAEIAEELEDOgsIABCABBCxAxCDAToICAAQFhAKEB5KBAhBGABQpANYlBdgyBdoAXAAeAGAAbQBiAH1GpIBBTExLjIwmAEAoAEByAEIwAEB&sclient=gws-wiz
+11/26/2021 09:13:08 AM	Java - removing first character of a string - Stack Overflow	https://stackoverflow.com/questions/4503656/java-removing-first-character-of-a-string
+11/26/2021 09:13:38 AM	String (Java Platform SE 7 )	https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#substring(int)
+11/26/2021 09:13:59 AM	string length in java - Google Search	https://www.google.com/search?q=string+length+in+java&rlz=1C1SQJL_enUS810US810&oq=string+length+in+java&aqs=chrome.0.0i20i263i512j0i512l9.2783j0j7&sourceid=chrome&ie=UTF-8
+11/26/2021 09:14:00 AM	Java - String length() Method	https://www.tutorialspoint.com/java/java_string_length.htm
+11/26/2021 09:22:59 AM	Java-lisp-interpreter/InterpreterModelSingleton.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/interpreter/InterpreterModelSingleton.java&sa=D&source=docs&ust=1637940178174000&usg=AOvVaw1SvfKKtcVNlYo7db9kt_Yy
+11/26/2021 09:23:29 AM	Java-lisp-interpreter/InterpreterModelSingleton.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/interpreter/InterpreterModelSingleton.java
+11/26/2021 09:23:11 AM	Java-lisp-interpreter/InterpreterModelFactory.java at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/interpreter/InterpreterModelFactory.java#L15
+11/26/2021 09:23:36 AM	Java-lisp-interpreter/InterpreterModel.java at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/interpreter/InterpreterModel.java#L5
+11/26/2021 09:23:51 AM	Java-lisp-interpreter/ObservableLispInterpreter.java at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/interpreter/ObservableLispInterpreter.java#L66
+11/26/2021 09:28:54 AM	COMP 524 (6 unread)	https://piazza.com/class/ksf2o98md07hl
+11/26/2021 09:29:01 AM	COMP 524 (35 unread)	https://piazza.com/class/ksf2o98md07hl?cid=113
+11/26/2021 09:28:55 AM	COMP 524 (35 unread)	https://piazza.com/class/ksf2o98md07hl?cid=168
+11/26/2021 09:28:59 AM	COMP 524 (35 unread)	https://piazza.com/class/ksf2o98md07hl?cid=227
+11/26/2021 09:29:02 AM	COMP 524 (35 unread)	https://piazza.com/class/ksf2o98md07hl?cid=239
+11/26/2021 09:28:58 AM	COMP 524 (35 unread)	https://piazza.com/class/ksf2o98md07hl?cid=242
+11/26/2021 09:27:08 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=260
+11/26/2021 09:40:00 AM	COMP 524 (28 unread)	https://piazza.com/class/ksf2o98md07hl?cid=117
+11/26/2021 09:40:02 AM	COMP 524 (28 unread)	https://piazza.com/class/ksf2o98md07hl?cid=242
+11/26/2021 09:40:27 AM	CLHS: Function LOAD	http://clhs.lisp.se/Body/f_load.htm
+11/26/2021 09:40:27 AM	CLHS: Function LOAD	https://www.google.com/url?q=http://clhs.lisp.se/Body/f_load.htm&sa=D&source=docs&ust=1637941226303000&usg=AOvVaw08hQ038tEly0fjxNqGh9m7
+11/26/2021 09:48:31 AM	COMP 524 (28 unread)	https://piazza.com/class/ksf2o98md07hl?cid=13
+11/26/2021 09:48:43 AM	COMP 524 (28 unread)	https://piazza.com/class/ksf2o98md07hl?cid=242
+11/26/2021 09:54:05 AM	COMP 524 (34 unread)	https://piazza.com/class/ksf2o98md07hl?cid=227
+11/26/2021 09:53:45 AM	COMP 524 (34 unread)	https://piazza.com/class/ksf2o98md07hl?cid=242
+11/26/2021 09:53:48 AM	COMP 524 (34 unread)	https://piazza.com/class/ksf2o98md07hl?cid=238
+11/26/2021 09:53:39 AM	COMP 524 (34 unread)	https://piazza.com/class/ksf2o98md07hl?cid=255
+11/26/2021 10:00:18 AM	CLHS: Special Operator QUOTE	http://clhs.lisp.se/Body/s_quote.htm
+11/26/2021 09:57:49 AM	CLHS: Function LOAD	http://clhs.lisp.se/Body/f_load.htm
+11/26/2021 09:57:49 AM	CLHS: Function LOAD	https://www.google.com/url?q=http://clhs.lisp.se/Body/f_load.htm&sa=D&source=docs&ust=1637941226303000&usg=AOvVaw08hQ038tEly0fjxNqGh9m7
+11/26/2021 09:56:39 AM	online clisp compiler - Google Search	https://www.google.com/search?q=online+clisp+compiler&rlz=1C1SQJL_enUS810US810&oq=online+clisp+compiler&aqs=chrome..69i57j0i10j0i22i30.5571j0j7&sourceid=chrome&ie=UTF-8
+11/26/2021 09:56:41 AM	online lisp compiler - Google Search	https://www.google.com/search?rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvKibNAfVFPfm_sBN2O-swXvKidO5g:1637938598604&q=online+lisp+compiler&spell=1&sa=X&ved=2ahUKEwjemNXipLb0AhURpXIEHWbVA2gQBSgAegQIARAx&biw=1280&bih=609&dpr=1.5
+11/26/2021 09:56:42 AM	Online Lisp Compiler - Online Lisp Editor - Online Lisp IDE - Lisp Coding Online - Practice Lisp Online - Execute Lisp Online - Compile Lisp Online - Run Lisp Online	https://www.tutorialspoint.com/execute_lisp_online.php
+11/26/2021 10:00:18 AM	CLHS: Special Operator QUOTE	https://www.google.com/url?q=http://clhs.lisp.se/Body/s_quote.htm&sa=D&source=docs&ust=1637942417807000&usg=AOvVaw0eMmj3kTr4VlSIDJu05f-M
+11/26/2021 10:05:50 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=242
+11/26/2021 10:07:25 AM	Charset (Java Platform SE 7 )	https://docs.oracle.com/javase/7/docs/api/java/nio/charset/Charset.html
+11/26/2021 10:09:51 AM	java charset forname - Google Search	https://www.google.com/search?q=java+charset+forname&rlz=1C1SQJL_enUS810US810&oq=java+charset+forname&aqs=chrome..69i57j35i39j0i512l3j69i60l3.2625j0j7&sourceid=chrome&ie=UTF-8
+11/26/2021 10:06:59 AM	Charset forName() method in Java with Examples - GeeksforGeeks	https://www.geeksforgeeks.org/charset-forname-method-in-java-with-examples/
+11/26/2021 10:08:31 AM	Charset (Java Platform SE 7 )	https://docs.oracle.com/javase/7/docs/api/java/nio/charset/Charset.html#defaultCharset()
+11/26/2021 10:12:34 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/26/2021 10:11:37 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.n6y9cj4rn3xe
+11/26/2021 10:16:06 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/26/2021 10:54:15 AM	Java-lisp-interpreter/InterpreterModel.java at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/interpreter/InterpreterModel.java#L5
+11/26/2021 10:50:43 AM	java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0 code example | Newbedev	https://newbedev.com/java-lang-indexoutofboundsexception-index-0-out-of-bounds-for-length-0-code-example
+11/26/2021 10:54:22 AM	Java-lisp-interpreter/src/main/lisp at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp
+11/26/2021 10:54:52 AM	Java-lisp-interpreter/src/main/lisp/evaluator at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/evaluator
+11/26/2021 10:54:23 AM	Java-lisp-interpreter/src/main/lisp/evaluator/basic at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/evaluator/basic
+11/26/2021 10:54:36 AM	Java-lisp-interpreter/BuiltinOperationManagerSingleton.java at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/evaluator/BuiltinOperationManagerSingleton.java
+11/26/2021 10:54:39 AM	Java-lisp-interpreter/UtilityOperationRegisterer.java at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/evaluator/UtilityOperationRegisterer.java
+11/26/2021 10:58:07 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.ppm3jkf4g8xc
+11/26/2021 11:05:36 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=113
+11/26/2021 11:04:15 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=117
+11/26/2021 11:05:40 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=227
+11/26/2021 11:03:47 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/26/2021 11:04:33 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=239
+11/26/2021 11:04:16 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=242
+11/26/2021 11:03:49 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.rmkc02orvtqd
+11/26/2021 11:03:52 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.wjl4w08qib94
+11/26/2021 11:03:53 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.cjluiu8ks89n
+11/26/2021 11:09:40 AM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=227
+11/26/2021 11:07:03 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/26/2021 11:06:43 AM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=239
+11/26/2021 11:09:36 AM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=228
+11/26/2021 11:09:22 AM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=229
+11/26/2021 11:06:40 AM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=251
+11/26/2021 11:07:04 AM	CLHS: Function LOAD	http://clhs.lisp.se/Body/f_load.htm
+11/26/2021 11:06:21 AM	COMP 524 (32 unread)	https://piazza.com/class/ksf2o98md07hl?cid=256
+11/26/2021 11:06:15 AM	COMP 524 (33 unread)	https://piazza.com/class/ksf2o98md07hl?cid=259
+11/26/2021 11:06:12 AM	COMP 524 (33 unread)	https://piazza.com/class/ksf2o98md07hl?cid=260
+11/26/2021 11:06:26 AM	COMP 524 (32 unread)	https://piazza.com/class/ksf2o98md07hl?cid=255
+11/26/2021 11:06:10 AM	COMP 524 (33 unread)	https://piazza.com/class/ksf2o98md07hl?cid=262
+11/26/2021 11:06:16 AM	COMP 524 (32 unread)	https://piazza.com/class/ksf2o98md07hl?cid=257
+11/26/2021 11:06:27 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=253
+11/26/2021 11:06:41 AM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=252
+11/26/2021 11:07:04 AM	CLHS: Function LOAD	https://www.google.com/url?q=http://clhs.lisp.se/Body/f_load.htm&sa=D&source=docs&ust=1637946423665000&usg=AOvVaw08j7xsR50k3RVnAuEPAj9h
+11/26/2021 11:17:51 AM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=13
+11/26/2021 11:18:01 AM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=168
+11/26/2021 11:22:31 AM	Java-lisp-interpreter/src/main/lisp/parser/terms at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/parser/terms
+11/26/2021 11:22:29 AM	Java-lisp-interpreter/src/main/lisp at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp
+11/26/2021 11:22:13 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.cjluiu8ks89n
+11/26/2021 11:22:14 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.gjdgxs
+11/26/2021 11:22:22 AM	Java-lisp-interpreter/src/main at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main
+11/26/2021 11:22:28 AM	Java-lisp-interpreter/src/main/lisp/interpreter at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/interpreter
+11/26/2021 11:22:30 AM	Java-lisp-interpreter/src/main/lisp/parser at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/parser
+11/26/2021 11:22:36 AM	Java-lisp-interpreter/StringAtom.java at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/parser/terms/StringAtom.java
+11/26/2021 11:26:42 AM	print list lisp - Google Search	https://www.google.com/search?q=print+list+lisp&rlz=1C1SQJL_enUS810US810&oq=print+list+lisp&aqs=chrome..69i57.1924j0j7&sourceid=chrome&ie=UTF-8
+11/26/2021 11:26:38 AM	How to call a function that prints a list in lisp? - Stack Overflow	https://stackoverflow.com/questions/55980944/how-to-call-a-function-that-prints-a-list-in-lisp
+11/26/2021 11:26:48 AM	write line lisp - Google Search	https://www.google.com/search?q=write+line+lisp&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvLK9gU1lxRzxQwJ-U_BRFLEu1883g%3A1637943995770&ei=uwqhYbPFLq-HytMPzKCgsAo&ved=0ahUKEwjzjp7wuLb0AhWvg3IEHUwQCKYQ4dUDCA4&uact=5&oq=write+line+lisp&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjIICAAQFhAKEB4yCAgAEBYQChAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BwgAEEcQsAM6BAgjECc6BQgAEJECOhEILhCABBCxAxCDARDHARCjAjoLCAAQgAQQsQMQgwE6BAgAEEM6CAgAELEDEIMBOgUIABCABDoECC4QQzoICAAQgAQQsQM6CwguEIAEEMcBENEDOgUILhCABDoICC4QgAQQsQNKBAhBGABQ_w1Y1R1g0B5oAXAAeAGAAZkHiAH6GpIBDTEuNi4zLjEuMS4wLjGYAQCgAQHIAQjAAQE&sclient=gws-wiz
+11/26/2021 11:26:49 AM	CLHS: Function WRITE-STRING, WRITE-LINE	http://clhs.lisp.se/Body/f_wr_stg.htm
+11/26/2021 11:34:58 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.rmkc02orvtqd
+11/26/2021 11:34:57 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.wjl4w08qib94
+11/26/2021 11:34:09 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.cjluiu8ks89n
+11/26/2021 11:34:09 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.5vummuc3hqs4
+11/26/2021 11:34:51 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.hlqqvbe81rgb
+11/26/2021 11:34:54 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.s15ahqsmg61u
+11/26/2021 11:37:34 AM	avitkus/Java-lisp-interpreter: A reduced Java implementation of a lisp interpreter	https://github.com/avitkus/Java-lisp-interpreter
+11/26/2021 11:37:36 AM	Java-lisp-interpreter/src/main/lisp/evaluator at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/evaluator
+11/26/2021 11:37:13 AM	Java-lisp-interpreter/OperationRegisterer.java at 4783ff9cc5d5d573d622340770dc7bfaa614cc44 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/4783ff9cc5d5d573d622340770dc7bfaa614cc44/src/main/lisp/evaluator/OperationRegisterer.java
+11/26/2021 11:38:44 AM	Search · operationRegisterer	https://github.com/avitkus/Java-lisp-interpreter/search?q=operationRegisterer
+11/26/2021 11:37:55 AM	Java-lisp-interpreter/ClassRegistryA3.java at e0c7eb88fc3df27f5580ad09577aedf611b1b87c · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/e0c7eb88fc3df27f5580ad09577aedf611b1b87c/src/main/ClassRegistryA3.java
+11/26/2021 11:38:35 AM	Java-lisp-interpreter/UtilityOperationRegisterer.java at e0c7eb88fc3df27f5580ad09577aedf611b1b87c · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/e0c7eb88fc3df27f5580ad09577aedf611b1b87c/src/main/lisp/evaluator/UtilityOperationRegisterer.java
+11/26/2021 11:38:40 AM	Java-lisp-interpreter/BuiltInLazyOperationRegisterer.java at e0c7eb88fc3df27f5580ad09577aedf611b1b87c · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/e0c7eb88fc3df27f5580ad09577aedf611b1b87c/src/main/lisp/evaluator/BuiltInLazyOperationRegisterer.java
+11/26/2021 11:38:56 AM	Java-lisp-interpreter/BasicOperationRegisterer.java at e0c7eb88fc3df27f5580ad09577aedf611b1b87c · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/e0c7eb88fc3df27f5580ad09577aedf611b1b87c/src/main/lisp/evaluator/BasicOperationRegisterer.java
+11/26/2021 11:39:28 AM	how to start a lisp file - Google Search	https://www.google.com/search?q=how+to+start+a+lisp+file&rlz=1C1SQJL_enUS810US810&oq=how+to+start+a+lisp+file&aqs=chrome..69i57j0i20i263i512j0i512l8.2054j0j7&sourceid=chrome&ie=UTF-8
+11/26/2021 11:39:32 AM	Creating and Loading LISP files	https://cadoasis.com/creating-loading-lisp-files/
+11/26/2021 11:39:43 AM	create lisp file - YouTube	https://www.youtube.com/results?search_query=create+lisp+file
+11/26/2021 11:39:46 AM	Autocad Tutorial How To Create Your Own Alias Command With Lisp - YouTube	https://www.youtube.com/watch?v=k7_Q5SRfo60
+11/26/2021 11:42:46 AM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=113
+11/26/2021 11:42:50 AM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=227
+11/26/2021 11:45:07 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/26/2021 11:42:38 AM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=239
+11/26/2021 11:42:51 AM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=242
+11/26/2021 11:43:11 AM	c - How to find relative path given two absolute paths? - Stack Overflow	https://stackoverflow.com/questions/29055511/how-to-find-relative-path-given-two-absolute-paths
+11/26/2021 11:49:46 AM	lisp input expression - Google Search	https://www.google.com/search?q=lisp+input+expression&rlz=1C1SQJL_enUS810US810&oq=lisp+input+expression&aqs=chrome..69i57j69i59l3j0i271j69i60l3.2121j0j7&sourceid=chrome&ie=UTF-8
+11/26/2021 11:49:36 AM	LISP - Input & Output	https://www.tutorialspoint.com/lisp/lisp_input_output.htm
+11/26/2021 11:49:48 AM		http://www.gnu.org/s/emacs/manual/html_node/elisp/Input-Functions.html
+11/26/2021 11:51:43 AM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=242
+11/26/2021 11:51:48 AM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=263
+11/26/2021 12:04:00 PM	COMP 524 (1 unread)	https://piazza.com/class/ksf2o98md07hl
+11/26/2021 12:04:03 PM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=262
+11/26/2021 12:04:05 PM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=263
+11/26/2021 12:14:04 PM	COMP 524 (1 unread)	https://piazza.com/class/ksf2o98md07hl
+11/26/2021 12:14:04 PM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=263
+11/26/2021 12:25:15 PM	COMP 524 (1 unread)	https://piazza.com/class/ksf2o98md07hl
+11/26/2021 12:25:11 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/26/2021 12:21:19 PM	Path (Java Platform SE 8 )	https://docs.oracle.com/javase/8/docs/api/java/nio/file/Path.html
+11/26/2021 12:24:09 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.cjluiu8ks89n
+11/26/2021 12:25:15 PM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=263
+11/26/2021 12:21:20 PM	Files (Java Platform SE 8 )	https://docs.oracle.com/javase/8/docs/api/java/nio/file/Files.html
+11/26/2021 12:40:18 PM	Sakai @ UNC :: Welcome	https://sakai.unc.edu/
+11/26/2021 12:51:12 PM	Assignments - Google Drive	https://drive.google.com/drive/u/0/folders/1-3bqol85BpI3zfmiXTTI7AaC7-g7XaGb
+11/26/2021 12:51:16 PM	Lectures - Google Drive	https://drive.google.com/drive/u/0/folders/14RRzusx6-WneUxkScwrdUR3MZFz_f1I9
+11/26/2021 12:53:42 PM	Java Tutorial - Java Files.readAllLines(Path path, Charset cs)	http://www.java2s.com/Tutorials/Java/java.nio.file/Files/Java_Files_readAllLines_Path_path_Charset_cs_.htm
+11/26/2021 12:53:42 PM	Java Tutorial - Java Files.readAllLines(Path path, Charset cs)	https://www.google.com/url?q=http://www.java2s.com/Tutorials/Java/java.nio.file/Files/Java_Files_readAllLines_Path_path_Charset_cs_.htm&sa=D&source=docs&ust=1637952821397000&usg=AOvVaw1X45fntOmUvXYH9a6BxiXG
+11/26/2021 12:57:10 PM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl
+11/26/2021 12:57:23 PM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=258
+11/26/2021 12:57:22 PM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=262
+11/26/2021 12:57:44 PM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=253
+11/26/2021 12:57:53 PM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=246
+11/26/2021 13:01:48 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/26/2021 13:01:50 PM	Java-lisp-interpreter/AbstractSExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractSExpression.java
+11/26/2021 13:01:45 PM	Java-lisp-interpreter/OperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/OperationRegisterer.java
+11/26/2021 13:01:45 PM	Java-lisp-interpreter/src/main/lisp at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp
+11/26/2021 13:01:47 PM	Java-lisp-interpreter/src/main/lisp/parser at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser
+11/26/2021 13:01:43 PM	Java-lisp-interpreter/OperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/OperationRegisterer.java&sa=D&source=docs&ust=1637953302526000&usg=AOvVaw1wjLyiCnkt0VBjgGAD7lps
+11/26/2021 13:08:55 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/26/2021 13:08:56 PM	Java-lisp-interpreter/Atom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/Atom.java
+11/26/2021 13:08:53 PM	Java-lisp-interpreter/IntegerAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/IntegerAtom.java
+11/26/2021 13:10:30 PM	java enum - Google Search	https://www.google.com/search?q=java+enum&rlz=1C1SQJL_enUS810US810&oq=java+enum&aqs=chrome.0.0i433i512j0i512l9.1601j0j7&sourceid=chrome&ie=UTF-8
+11/26/2021 13:10:33 PM	Java Enums	http://tutorials.jenkov.com/java/enums.html#:~:text=A%20Java%20Enum%20is%20a,and%20use%20a%20Java%20enum.
+11/26/2021 13:15:32 PM	Java-lisp-interpreter/BasicExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/BasicExpression.java
+11/26/2021 13:15:31 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/26/2021 13:15:28 PM	CLHS: Function LOAD	http://clhs.lisp.se/Body/f_load.htm
+11/26/2021 13:12:59 PM	java compare strings - Google Search	https://www.google.com/search?q=java+compare+strings&rlz=1C1SQJL_enUS810US810&oq=java+compare+strings&aqs=chrome.0.0i512l2j0i20i263i512j0i512l7.2598j0j7&sourceid=chrome&ie=UTF-8
+11/26/2021 13:13:00 PM	Compare two Strings in Java - GeeksforGeeks	https://www.geeksforgeeks.org/compare-two-strings-in-java/

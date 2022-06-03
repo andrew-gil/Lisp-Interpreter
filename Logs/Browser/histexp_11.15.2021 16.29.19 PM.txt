@@ -1,0 +1,292 @@
+11/15/2021 16:53:26 PM	COMP 524 (34 unread)	https://piazza.com/class/ksf2o98md07hl
+11/15/2021 16:53:32 PM	Eclipse - Perspectives	https://www.tutorialspoint.com/eclipse/eclipse_perspectives.htm
+11/15/2021 16:53:52 PM	COMP 524 (34 unread)	https://piazza.com/class/ksf2o98md07hl?cid=233
+11/15/2021 16:59:46 PM	COMP 524 (34 unread)	https://piazza.com/class/ksf2o98md07hl?cid=110
+11/15/2021 16:59:58 PM	COMP 524 (32 unread)	https://piazza.com/class/ksf2o98md07hl?cid=239
+11/15/2021 17:00:06 PM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=233
+11/15/2021 16:59:55 PM	COMP 524 (33 unread)	https://piazza.com/class/ksf2o98md07hl?cid=244
+11/15/2021 16:59:56 PM	COMP 524 (32 unread)	https://piazza.com/class/ksf2o98md07hl?cid=242
+11/15/2021 16:59:59 PM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=241
+11/15/2021 17:00:01 PM	COMP 524 (30 unread)	https://piazza.com/class/ksf2o98md07hl?cid=238
+11/15/2021 17:08:22 PM	java inherit keyword - Google Search	https://www.google.com/search?q=java+inherit+keyword&rlz=1C1SQJL_enUS810US810&oq=java+inherit+keyword&aqs=chrome..69i57j0i22i30l3.2162j0j7&sourceid=chrome&ie=UTF-8
+11/15/2021 17:09:34 PM	java inheritance visualization - Google Search	https://www.google.com/search?q=java+inheritance+visualization&rlz=1C1SQJL_enUS810US810&oq=java+inheritance+visualization&aqs=chrome..69i57j0i512l5j0i20i263i512j0i512l3.3618j0j7&sourceid=chrome&ie=UTF-8
+11/15/2021 17:09:36 PM	java inheritance visualization - Google Search	https://www.google.com/search?q=java+inheritance+visualization&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvIHYQo3F2B4-UZRTIwFUJUzJ4h8qw:1637014170365&source=lnms&tbm=isch&sa=X&ved=2ahUKEwji8vaAsZv0AhXgQzABHcp9C9sQ_AUoAXoECAEQAw&biw=1280&bih=609&dpr=1.5
+11/15/2021 17:09:47 PM	java inheritance visualization - Google Search	https://www.google.com/search?q=java+inheritance+visualization&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvIHYQo3F2B4-UZRTIwFUJUzJ4h8qw:1637014170365&source=lnms&tbm=isch&sa=X&ved=2ahUKEwji8vaAsZv0AhXgQzABHcp9C9sQ_AUoAXoECAEQAw&biw=1280&bih=609&dpr=1.5#imgrc=f48jk59dgGtCKM
+11/15/2021 17:10:58 PM	Java-lisp-interpreter/BasicExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/BasicExpression.java
+11/15/2021 17:13:29 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/15/2021 17:12:27 PM	Java-lisp-interpreter/NilAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/NilAtom.java
+11/15/2021 17:13:12 PM	Java-lisp-interpreter/AbstractSExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractSExpression.java
+11/15/2021 17:14:43 PM	Java-lisp-interpreter/Atom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/Atom.java
+11/15/2021 17:11:49 PM	Java-lisp-interpreter/AbstractAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractAtom.java
+11/15/2021 17:12:42 PM	Java-lisp-interpreter/DecimalAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/DecimalAtom.java
+11/15/2021 17:13:21 PM	Java-lisp-interpreter/StringAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/StringAtom.java
+11/15/2021 17:19:41 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/15/2021 17:15:39 PM	Java-lisp-interpreter/NilAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/NilAtom.java
+11/15/2021 17:19:44 PM	Java-lisp-interpreter/SExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/SExpression.java
+11/15/2021 17:19:40 PM	Java-lisp-interpreter/StringAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/StringAtom.java
+11/15/2021 17:16:35 PM	java instanceof - Google Search	https://www.google.com/search?q=java+instanceof&rlz=1C1SQJL_enUS810US810&oq=java+instanceof&aqs=chrome.0.0i433i512j0i512l9.2472j0j7&sourceid=chrome&ie=UTF-8
+11/15/2021 17:16:42 PM	Java “instanceOf”: Why And How To Avoid It In Code	https://armedia.com/blog/instanceof-avoid-in-code/#:~:text=The%20java%20%E2%80%9Cinstanceof%E2%80%9D%20operator%20is,compares%20the%20instance%20with%20type.&text=If%20we%20apply%20this%20operator,null%20value%2C%20it%20returns%20false.
+11/15/2021 17:27:11 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/15/2021 17:27:37 PM	Java-lisp-interpreter/BasicExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/BasicExpression.java
+11/15/2021 17:27:36 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/15/2021 17:27:04 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.ewx9891m7x1w
+11/15/2021 17:22:45 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.vl2kz4u9md1r
+11/15/2021 18:24:21 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/15/2021 18:23:13 PM	Java-lisp-interpreter/Atom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/Atom.java
+11/15/2021 18:24:22 PM	Java-lisp-interpreter/AbstractAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractAtom.java
+11/15/2021 18:43:18 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/15/2021 18:43:11 PM	Java-lisp-interpreter/NilAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/NilAtom.java
+11/15/2021 18:43:22 PM	Java-lisp-interpreter/AbstractAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractAtom.java
+11/15/2021 18:43:06 PM	Java-lisp-interpreter/IntegerAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/IntegerAtom.java
+11/15/2021 18:55:23 PM	Java-lisp-interpreter/src/main at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main
+11/15/2021 18:55:23 PM	Java-lisp-interpreter/Main.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/Main.java
+11/15/2021 19:10:09 PM	Calculus III - Line Integrals	https://tutorial.math.lamar.edu/classes/calciii/lineintegralsintro.aspx
+11/15/2021 19:10:13 PM	Calculus III - Line Integrals - Part I	https://tutorial.math.lamar.edu/classes/calciii/LineIntegralsPtI.aspx
+11/15/2021 19:11:07 PM	Calculus III - Green's Theorem	https://tutorial.math.lamar.edu/classes/calciii/GreensTheorem.aspx
+11/15/2021 19:11:39 PM	Calculus III - Line Integrals of Vector Fields	https://tutorial.math.lamar.edu/classes/calciii/LineIntegralsVectorFields.aspx
+11/15/2021 19:20:33 PM	Calculus III - Green's Theorem	https://tutorial.math.lamar.edu/classes/calciii/GreensTheorem.aspx
+11/16/2021 11:54:59 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+11/16/2021 11:55:14 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s2
+11/16/2021 11:54:42 AM	See an Advisor - Academic Advising Program	https://advising.unc.edu/advisor/
+11/16/2021 11:54:55 AM	Login - CAS – Central Authentication Service	http://virtualdropins.oasis.unc.edu/
+11/16/2021 11:58:01 AM	drop-in check-in	https://virtualdropins.oasis.unc.edu/dropin/
+11/16/2021 11:54:55 AM	Login - CAS – Central Authentication Service	https://cas6.oasis.unc.edu/cas/login?service=https%3A%2F%2Fvirtualdropins.oasis.unc.edu%2Fdropin%2Fj_spring_cas_security_check
+11/16/2021 11:54:59 AM	UNC-Chapel Hill Single Sign-On	https://cas6.oasis.unc.edu/cas/clientredirect?client_name=UNC%20Single%20Sign%20On&service=https%3A%2F%2Fvirtualdropins.oasis.unc.edu%2Fdropin%2Fj_spring_cas_security_check&locale=en
+11/16/2021 11:55:18 AM	drop-in check-in	https://virtualdropins.oasis.unc.edu/dropin/dropin/studentPage
+11/16/2021 11:54:59 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fVLLbtswELz3KwReA%2BsFPSLCkuEmCBogjV1L7qGXgKZWDgGJVLmUkf59Kcluk0MMECC43N2Zndnl6q1rnRNoFErmJHB94oDkqhbymJN99bC4JaviyxJZ14Y9XQ%2FmVe7g9wBonDUiaGPr7pTEoQNdgj4JDvvdU05ejemReh5nmLiKoUB3kNyFehhDXquOQq54K0CaF8k6yPfPdzelRW3BXkd5s5HEWRujxWEwMCPY3zPEo6zhLSeW7L1lIiQzE%2F0LKKL6hybq3uu1akQLXrn%2B%2FhR6O6iFBm68stwQ50FpDtNcOWlYi0Ccx%2FucvKQQZ%2F5tEtVhwCL%2FkGXRwQcepkkWxzz145Q3acQym41bhihO8L8ecbAU0TBpchL6YbAI7EmqIKFxROPQjbP4F3G2WhnFVftVyFnvQUs6aUVHSZAaTkfKNHR9epiTkH6rqu1iuykr4vy8%2BBaOvlknJdLZqeu9%2BjMwKWZj6cRYj1p0zFyvHSOiXjRTKrX2CfOHOM82%2BmNgrWgE6Gvuf6B5HYld9osUn%2Fdbeu8nKM7Pj5ta%2FAU%3D&RelayState=TST-34569-cAUkVLQ9wKGa5u64dik36KLXhSE9Jgaj&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=D8Ag2Fi0qsmw7YCDKWBwIV%2FTIfK8BOrnSMfaFL%2B8IyvGgssi2H7o7RB90u14LjP6Ejq%2F2UeM6dWn3KDiRwsbv997RYcBLvRrchonlOdqdQgkoc7c8AgXMtZwRLiIGHtKv16bnSV%2FyQ5zkko0wYFkSlkl2KOloQ3i1rYiUxNEufKseSIpwh6zyHElNZs1iJcR%2BLp5Jh4j5DNhQ08FS8XmFtn0JzTm98UhNa1W%2BWAAr%2Fb7PyrWUWAtjuTKrP2l3BrAZSi1yABuZep19AICIn89uRIox8d1ciKsECjcKOVs4FSq877dX%2FgkPyT15E%2FuThF1maIKYD1W7ordoJ3Z%2B2IaVw%3D%3D
+11/16/2021 11:55:15 AM	drop-in check-in	https://virtualdropins.oasis.unc.edu/dropin/j_spring_cas_security_check?ticket=ST-23390-b3i3jY9fClKlI-hu4hafoqHy1Bw-ed7d18d18d80
+11/16/2021 12:03:03 PM	drop-in check-in	https://virtualdropins.oasis.unc.edu/dropin/
+11/16/2021 12:03:33 PM	drop-in check-in	https://virtualdropins.oasis.unc.edu/dropin/
+11/16/2021 16:19:13 PM	Java-lisp-interpreter/ExpressionFactory.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/ExpressionFactory.java&sa=D&source=docs&ust=1637101152733000&usg=AOvVaw1Fete77vEh0DCJ0Q3Jb9Cr
+11/16/2021 16:19:14 PM	Java-lisp-interpreter/ExpressionFactory.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/ExpressionFactory.java
+11/16/2021 16:35:44 PM	comp 524 assignment 5 - Google Search	https://www.google.com/search?q=comp+524+assignment+5&rlz=1C1SQJL_enUS810US810&oq=comp+524+assignment+5&aqs=chrome..69i57j69i61l2.4647j0j7&sourceid=chrome&ie=UTF-8
+11/16/2021 16:35:55 PM	comp 524 assignment 5 github - Google Search	https://www.google.com/search?q=comp+524+assignment+5+github&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvINDD_jgWqxW2eh9U24FPKygrimoA%3A1637098543915&ei=LySUYeOqN46MwbkPwYKN-As&oq=comp+524+assignment+5+github&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEAoQoAE6CggjEK4CELADECc6BQghEKABOgUIIRCrAjoECCMQJ0oECEEYAVCFAVjJFmCCF2gJcAB4AIAB6QGIAb0OkgEGMS4xMi4xmAEAoAEByAEBwAEB&sclient=gws-wiz&ved=0ahUKEwij_q-p6530AhUORjABHUFBA78Q4dUDCA4&uact=5
+11/16/2021 16:47:44 PM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/
+11/16/2021 16:48:18 PM	cdriehuys/comp475: Programming assignments for COMP 475 at UNC	https://github.com/cdriehuys/comp475
+11/16/2021 16:45:37 PM	Java-lisp-interpreter/BasicExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/BasicExpression.java
+11/16/2021 16:45:34 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/16/2021 16:48:15 PM	comp 475 pa6 github - Google Search	https://www.google.com/search?q=comp+475+pa6+github&rlz=1C1SQJL_enUS810US810&oq=comp+475+pa6+github&aqs=chrome..69i57j69i60l2.5652j0j7&sourceid=chrome&ie=UTF-8
+11/16/2021 16:48:46 PM	cdriehuys/comp475: Programming assignments for COMP 475 at UNC	https://github.com/cdriehuys/comp475
+11/16/2021 16:48:47 PM	Releases · cdriehuys/comp475	https://github.com/cdriehuys/comp475/releases
+11/16/2021 16:49:14 PM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/pa6/index.html
+11/16/2021 16:54:20 PM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/
+11/16/2021 16:54:21 PM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/pa6/index.html
+11/16/2021 17:14:30 PM	How can I declare and define multiple variables in one line using C++? - Stack Overflow	https://stackoverflow.com/questions/6838408/how-can-i-declare-and-define-multiple-variables-in-one-line-using-c/6838447
+11/16/2021 17:38:01 PM	Return Array from Functions in C++	https://www.tutorialspoint.com/cplusplus/cpp_return_arrays_from_functions.htm
+11/16/2021 17:44:33 PM	Arrays - C++ Tutorials	https://www.cplusplus.com/doc/tutorial/arrays/
+11/16/2021 23:37:38 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+11/16/2021 23:37:38 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/sakai-login-tool/container
+11/16/2021 23:37:33 PM	Sakai @ UNC :: Welcome	https://sakai.unc.edu/
+11/16/2021 23:37:38 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal
+11/16/2021 23:37:33 PM	Sakai @ UNC :: Welcome	http://sakai.unc.edu/welcome/
+11/16/2021 23:37:38 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal/clogin
+11/16/2021 23:37:40 PM	Sakai @ UNC-Chapel Hill : COMP590.059.FA21 : Overview	https://sakai.unc.edu/portal/site/5c4756df-0c21-415f-808a-91c835cfa5ee
+11/16/2021 23:36:40 PM	COMP 590 Class Homepage	https://www.cs.unc.edu/~stotts/COMP590-059-f21/
+11/16/2021 23:36:42 PM	COMP 590 Assignments Page	https://www.cs.unc.edu/~stotts/COMP590-059-f21/assn.html
+11/16/2021 23:38:31 PM	Sakai @ UNC-Chapel Hill : COMP590.059.FA21 : Assignments	https://sakai.unc.edu/portal/site/5c4756df-0c21-415f-808a-91c835cfa5ee/tool/a71607ea-5919-4006-9260-cea4634632bb
+11/16/2021 23:38:29 PM	Sakai @ UNC-Chapel Hill : COMP590.059.FA21 : Assignments	https://sakai.unc.edu/portal/site/5c4756df-0c21-415f-808a-91c835cfa5ee/tool/a71607ea-5919-4006-9260-cea4634632bb?panel=Main
+11/16/2021 23:37:44 PM	Sakai @ UNC-Chapel Hill : COMP590.059.FA21 : Gradebook	https://sakai.unc.edu/portal/site/5c4756df-0c21-415f-808a-91c835cfa5ee/tool/e4198139-dbc0-442d-bc09-dd9970d4b10e
+11/16/2021 23:36:06 PM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/pa6/index.html
+11/16/2021 23:38:21 PM	Sakai @ UNC-Chapel Hill : COMP590.059.FA21 : Assignments	https://sakai.unc.edu/portal/site/5c4756df-0c21-415f-808a-91c835cfa5ee/tool-reset/a71607ea-5919-4006-9260-cea4634632bb
+11/16/2021 23:37:34 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbb4IwGIb%2FCum9lIOT2AgJ04uZuEmE7WI3S4HP0ay0rF%2FZ4d8PxRmXLCa963vo%2B6QL5K3sWNrbRu3gvQe0zlcrFbLjRUx6o5jmKJAp3gIyW7E8vd%2BwwPVYZ7TVlZbESRHBWKHVUivsWzA5mA9RweNuE5PG2g4ZpcjfuHB7VblQ9zRvRFlqCbZxETU9hAY02%2BYFcVbDK4Tih7wLN%2BqzV9QdHcr3QsLJuINaGKgszfMtcdarmLxMyyja114VBLPIuwlmYTSd1fMQ5vXci0rfG2SIPawVWq5sTAIv8Cf%2BcKLCm7IwYmH4TJzstPFWqFqo1%2BtAylGE7K4ossk45gkMHocMApIsDljZsdhcgL4ey3%2FpkuR%2FlnhmuaAXBWNbxx6GxPUq01JU304qpf5cGuAWYuITmoyWv38g%2BQE%3D&RelayState=ss%3Amem%3Aed9ba9cbee4199e5e5c2a0dbaaae66a4be99ed6ff90f5595e189d265b5b207e5&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=CV16kfyVHU3ausehsPM8mbZWKw6aUBQ%2Ff9j1X2agIKXqssu%2F%2BIDpJsYC6gZAtBK%2FQLTqPo%2FrjMtEsFhc3sVxjK8R%2BOoupimlfV%2Fh1%2BTMRjGrACoOKMrX8iidT6VdW1u7CgwICx%2FmWnnUklji1PhGytISYYLUH0RfHFksM6wqHdcq2NNoqC2J4SuWvtmnVDLUbhIQSu69PZ%2B0EUUVH8efky07XhfHLfQ619FCklhwxZ8IclNu7P%2BTygE%2Fk4%2BMzoCpzoOPH2ypiQcFp1NNmtlXEqGFo0N%2FpV%2BekY6fugWZJGQgaouzXy6o3gxIHPDFAoymtUoOd%2FbZLNwTIGM%2BhNkUPA%3D%3D
+11/16/2021 23:37:41 PM		https://sakai.unc.edu/portal/tool/2d958e3f-8df3-4798-9dd1-63c60a7ba3c1/synMainLite?time=1
+11/16/2021 23:38:19 PM	Sakai @ UNC-Chapel Hill : COMP590.059.FA21 : Assignments	https://sakai.unc.edu/portal/site/5c4756df-0c21-415f-808a-91c835cfa5ee/tool/a71607ea-5919-4006-9260-cea4634632bb?submissionId=/assignment/s/5c4756df-0c21-415f-808a-91c835cfa5ee/01596a94-5f21-44a9-8451-2dd4c901549f/6d66dbb7-0ca2-435a-9d49-ed9f53ba9b66&sakai_action=doView_grade
+11/16/2021 23:38:04 PM	Sakai @ UNC-Chapel Hill : COMP590.059.FA21 : Assignments	https://sakai.unc.edu/portal/site/5c4756df-0c21-415f-808a-91c835cfa5ee/tool/a71607ea-5919-4006-9260-cea4634632bb?submissionId=/assignment/s/5c4756df-0c21-415f-808a-91c835cfa5ee/844928d3-9120-4ee1-9698-a1ed03dd4734/f2d3109b-b341-45e7-bdfe-643619efb36d&sakai_action=doView_grade
+11/16/2021 23:38:11 PM	Sakai @ UNC-Chapel Hill : COMP590.059.FA21 : Assignments	https://sakai.unc.edu/portal/site/5c4756df-0c21-415f-808a-91c835cfa5ee/tool/a71607ea-5919-4006-9260-cea4634632bb?submissionId=/assignment/s/5c4756df-0c21-415f-808a-91c835cfa5ee/d27ed8c7-286c-4ea7-aa6b-466abd8d5ef6/1113a8e9-2663-47a9-a7ec-03c022961748&sakai_action=doView_grade
+11/16/2021 23:38:29 PM	Sakai @ UNC-Chapel Hill : COMP590.059.FA21 : Assignments	https://sakai.unc.edu/portal/site/5c4756df-0c21-415f-808a-91c835cfa5ee/tool/a71607ea-5919-4006-9260-cea4634632bb?submissionId=/assignment/s/5c4756df-0c21-415f-808a-91c835cfa5ee/825056e8-d7bf-4080-9f2f-e3e07bd0e15a/e8d36eb9-e9de-4df7-b563-97f5a336fde9&sakai_action=doView_grade
+11/16/2021 23:48:36 PM	muakasan/genshin	https://github.com/muakasan/genshin
+11/16/2021 23:48:38 PM		https://muakasan.github.io/genshin-portraits/index.html
+11/16/2021 23:47:15 PM	Genshin Optimizer	https://frzyc.github.io/genshin-optimizer/
+11/16/2021 23:47:49 PM	Genshin Optimizer	https://frzyc.github.io/genshin-optimizer/#/
+11/16/2021 23:48:21 PM	frzyc/genshin-optimizer: An Artifact optimizer for Genshin Impact.	https://github.com/frzyc/genshin-optimizer
+11/16/2021 23:47:42 PM	Genshin Optimizer	https://frzyc.github.io/genshin-optimizer/#/weapon
+11/16/2021 23:47:44 PM	Genshin Optimizer	https://frzyc.github.io/genshin-optimizer/#/artifact
+11/16/2021 23:48:13 PM	Genshin Optimizer	https://frzyc.github.io/genshin-optimizer/#/scanner
+11/16/2021 23:48:22 PM	genshin-optimizer/src at master · frzyc/genshin-optimizer	https://github.com/frzyc/genshin-optimizer/tree/master/src
+11/16/2021 23:48:37 PM	muakasan github io genshin - Google Search	https://www.google.com/search?q=muakasan+github+io+genshin&rlz=1C1SQJL_enUS810US810&oq=muakasan+github+io+genshin&aqs=chrome..69i57j33i160l2j33i299l2.3533j0j7&sourceid=chrome&ie=UTF-8
+11/16/2021 23:54:12 PM	COMP 590 Class Homepage	https://www.cs.unc.edu/~stotts/COMP590-059-f21/
+11/16/2021 23:54:12 PM	COMP 590 Assignments Page	https://www.cs.unc.edu/~stotts/COMP590-059-f21/assn.html
+11/17/2021 02:12:38 AM	scaspin/COMP475: Graphics Engine for COMP 475-2D Graphics Fall 2018	https://github.com/scaspin/COMP475
+11/17/2021 02:12:20 AM	comp 475 github - Google Search	https://www.google.com/search?q=comp+475+github&rlz=1C1SQJL_enUS810US810&oq=comp+475+github&aqs=chrome..69i57j69i60l3.3361j0j7&sourceid=chrome&ie=UTF-8
+11/17/2021 02:12:28 AM	comp 475 github scaspin - Google Search	https://www.google.com/search?q=comp+475+github+scaspin&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvIU3QcQUnqmOiKcM8qupkxfYHdkOA%3A1637133139149&ei=U6uUYZXLCN6QwbkP25uY6AY&oq=comp+475+github+scaspin&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEAoQoAEyBwghEAoQoAE6CAgAEIAEELADOgUIIRCgAToFCCEQqwJKBAhBGAFQyQJY2Axgtg5oAXAAeACAAb4BiAHtB5IBAzAuN5gBAKABAcgBAcABAQ&sclient=gws-wiz&ved=0ahUKEwjVwNWZ7J70AhVeSDABHdsNBm0Q4dUDCA4&uact=5
+11/17/2021 02:23:43 AM	scaspin/COMP475: Graphics Engine for COMP 475-2D Graphics Fall 2018	https://github.com/scaspin/COMP475
+11/17/2021 02:23:34 AM	COMP475/tmp at master · scaspin/COMP475	https://github.com/scaspin/COMP475/tree/master/tmp
+11/17/2021 02:23:41 AM	COMP475/src at master · scaspin/COMP475	https://github.com/scaspin/COMP475/tree/master/src
+11/17/2021 03:33:36 AM	Arrays - C++ Tutorials	https://www.cplusplus.com/doc/tutorial/arrays/
+11/17/2021 04:22:28 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+11/17/2021 04:22:41 AM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/sakai-login-tool/container
+11/17/2021 04:22:26 AM	Sakai @ UNC :: Welcome	https://sakai.unc.edu/
+11/17/2021 04:22:41 AM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal
+11/17/2021 04:22:26 AM	Sakai @ UNC :: Welcome	http://sakai.unc.edu/welcome/
+11/17/2021 04:22:41 AM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal/clogin
+11/17/2021 04:22:32 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s2
+11/17/2021 04:22:45 AM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Start Here	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e
+11/17/2021 04:22:40 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s3
+11/17/2021 04:23:09 AM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Week 12	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e/tool/d9c48852-d64d-4b1c-8bfa-df92eef836b4
+11/17/2021 04:22:28 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbT4MwGIb%2FCum9tGDiWDNIcLtwyXRkoBfemFI%2BpBFa7Fc8%2FHvZmMtMzJLe9T30fdIFiq7teTq4Ru%2FgfQB03lfXauSHi5gMVnMjUCHXogPkTvI8vd%2Fw0Ge8t8YZaVripYhgnTJ6aTQOHdgc7IeS8LjbxKRxrkdOKYo3ofxBSx%2BqgeaNKkvTgmt8REP3oSHNtnlBvNX4CqXFPu%2FMjebkVVVPx%2FJatXA07qBSFqSjeb4l3noVkxeI5jeVFFHEmAzqmtVzCKuIlcGMRXXArkcZ4gBrjU5oF5OQhcFVMJ5ZweY8DHk4eyZedtx4q3Sl9OtlIOUkQn5XFNnVNOYJLB6GjAKSLPZY%2BaHYnoG%2BHCt%2B6ZLkf5Z4YrmgZwVTW88fxsT1KjOtkt9e2rbmc2lBOIhJQGgyWf7%2BgeQH&RelayState=ss%3Amem%3A13f1256368a12694c1cc632caef61b255c1d0d218fa5aedeb53d601aedda6126&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=huN4LwDn%2F%2F9I6cHLo0XtMpNbdS%2Bgh3UCfAfe8Ypa5sRQAzgjDm6pwk%2BCNGjtLkFjYlH1EuC7QFOFtxPTxjt1id2R3cS04vnvM6B%2Bcm0e4EoGGEhWLNP3byV129wabAFsoxN7q8vDyABkHvGTiaTuzv9%2BsBWVGkS8oXpevckDnXha2j848SCouVdc1L%2B1VYW5PrjvWtNTxRotojRPQF8CgGkME7DNJ%2FaIRLqnH7qfeVX%2FqacGKvfws2ZVXSnLkI3feMPLXQvXP%2BEGwaOrjTcUxm46e16PXMH%2BjwXpReGoChXJHpvhg4pVicoqRdfJkVEOt0MApXx3LVEAriCY0JC1Og%3D%3D
+11/17/2021 04:22:48 AM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Week 13	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e/tool/e00077a0-3a29-4e16-aa1e-c79cfaf372c7
+11/17/2021 04:48:38 AM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/
+11/17/2021 04:48:43 AM	GitHub Classroom	https://classroom.github.com/login
+11/17/2021 04:48:50 AM	CS-475/pa6-andrew-gil: pa6-andrew-gil created by GitHub Classroom	https://github.com/CS-475/pa6-andrew-gil
+11/17/2021 04:48:43 AM	GitHub Classroom	https://github.com/login/oauth/authorize?client_id=Iv1.a84bfcae38835499&redirect_uri=https%3A%2F%2Fclassroom.github.com%2Fauth%2Fgithub%2Fcallback&response_type=code&state=639b3f6355ba984d930b1312dbbdc27c06e74ecfc3ec54bb
+11/17/2021 04:48:49 AM	pa6-andrew-gil/src at main · CS-475/pa6-andrew-gil	https://github.com/CS-475/pa6-andrew-gil/tree/main/src
+11/17/2021 04:48:52 AM	pa6-andrew-gil/include at main · CS-475/pa6-andrew-gil	https://github.com/CS-475/pa6-andrew-gil/tree/main/include
+11/17/2021 04:48:57 AM	pa6-andrew-gil/GShader.h at main · CS-475/pa6-andrew-gil	https://github.com/CS-475/pa6-andrew-gil/blob/main/include/GShader.h
+11/17/2021 05:02:57 AM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/
+11/17/2021 05:02:56 AM	GitHub Classroom	https://classroom.github.com/assignment-invitations/daae5aed89b6d5799099f3ce30d00392/status
+11/17/2021 05:02:55 AM	CS-475/pa6-andrew-gil: pa6-andrew-gil created by GitHub Classroom	https://github.com/CS-475/pa6-andrew-gil
+11/17/2021 05:02:59 AM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/pa6/index.html
+11/17/2021 05:02:55 AM	pa6-andrew-gil/include at main · CS-475/pa6-andrew-gil	https://github.com/CS-475/pa6-andrew-gil/tree/main/include
+11/17/2021 05:47:58 AM	C++ Overloading (Operator and Function)	https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm
+11/17/2021 06:12:21 AM	MyImpactPage - Schedule	https://app.betterimpact.com/Volunteer/Schedule/Assignments
+11/18/2021 09:17:23 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/18/2021 09:36:44 AM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/
+11/18/2021 09:36:47 AM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/pa6/index.html
+11/18/2021 10:45:53 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/18/2021 10:46:18 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.vl2kz4u9md1r
+11/18/2021 10:45:43 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.4yialrgvsaog
+11/18/2021 10:45:46 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.ut7f9ke5zhvk
+11/18/2021 10:46:17 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.habp3silvdj
+11/18/2021 11:01:10 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+11/18/2021 11:01:10 AM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/sakai-login-tool/container
+11/18/2021 11:00:50 AM	Sakai @ UNC :: Welcome	http://sakai.unc.edu/welcome/
+11/18/2021 11:01:10 AM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal/clogin
+11/18/2021 11:01:13 AM	Sakai @ UNC-Chapel Hill : MATH233.001.FA21 : Overview	https://sakai.unc.edu/portal/site/77be2803-99ee-499f-8bb5-8d67d66ab169
+11/18/2021 11:01:14 AM		https://sakai.unc.edu/portal/tool/943e2dde-3601-417e-8f7f-eb89d3929cec/synMainLite?time=1
+11/18/2021 11:02:10 AM	Sakai @ UNC-Chapel Hill : MATH233.001.FA21 : Announcements	https://sakai.unc.edu/portal/site/77be2803-99ee-499f-8bb5-8d67d66ab169/tool/c5384853-759c-48f0-83f9-e75680009eee
+11/18/2021 11:01:15 AM	Sakai @ UNC-Chapel Hill : MATH233.001.FA21 : Gradebook	https://sakai.unc.edu/portal/site/77be2803-99ee-499f-8bb5-8d67d66ab169/tool/ee9311e3-4b67-4d89-b7e4-6296e343c0c3
+11/18/2021 11:01:03 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdT4MwFIb%2FCum9FDqd2AwS3C5cMh0Z6IU3psCZNJYWe4of%2F1425jITs%2BRcte9Hz5POULSq42nvGr2B9x7QeV%2Bt0sj3FzHpreZGoESuRQvIXcXz9H7FmR%2FwzhpnKqOIlyKCddLoudHYt2BzsB%2BygsfNKiaNcx1ySlG8Cen3uvKh7mneyLI0ClzjIxq6C2U0W%2BcF8RbDK6QWu7wTN5qjV9YdHcq3UsHBuIFaWqgczfM18ZaLmLyU1eW0hoDVDCZhXZcsiLbRdXAVsYCxSXgzyBB7WGp0QruYDMfhRThMVIRTHoTDPBMvO%2Bx4K3Ut9et5IOUoQn5XFNnFuMwTWNwvMghIMtth5ftiewL6fKz4pUuS%2F1nikeWMnhSMbR1%2FGBKXi8woWX17qVLmc25BOIhJSGgyWv7%2BgeQH&RelayState=ss%3Amem%3A29395d6974ef418eef9fe1326a92b09ca7aefd5689a3cb73bd147aefbd1ba48f&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=F%2BPx700Dvqk24lsKiDLYx5fvnsVpc3RUNsaJgtvos0HhELs4bnvQw9EHpzVAtb9nMre6P%2BiWMQQTR%2FTtKGdl5J4pMByyyNzz76wTrlFwY8fynQmJEFt6TmJcieYa%2Bq%2B2z36Qt6uVouVpzxomfbt4IlGQ9aIJDOpgtJ8GzLvMaq6PTwUtEpNql7vpxeASBlXueYN2OnhREdJ5kOViZvd84i01CcW3pf2W12AZUXpkUhxZHiKIqkZLCaTw2SAq1HwBcz5ySYnXzlZkdda4w04ugL4ykSTvSN09IJRF6fk%2FJfEV4kqBSsmHENW8JagTZ1FOeiUdsV7ruPbShRumv23hlw%3D%3D
+11/18/2021 11:22:25 AM	Sakai @ UNC-Chapel Hill : COMP524.001.FA21 : Announcements	https://sakai.unc.edu/portal/site/a7e92904-8c33-4c09-862e-9db03c7d94a3
+11/18/2021 11:22:31 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl
+11/18/2021 11:22:49 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=7
+11/18/2021 11:23:36 AM	COMP 475 (66 unread)	https://piazza.com/class/ksfyua2xgk66ep
+11/18/2021 11:22:52 AM	Comp 524.docx - Google Docs	https://docs.google.com/document/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D?rtpof=true&authuser=dewan%40cs.unc.edu&usp=drive_fs
+11/18/2021 11:22:52 AM	Comp 524.docx - Google Docs	https://docs.google.com/document/u/0/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D/edit?rtpof=true&usp=drive_fs
+11/18/2021 11:22:52 AM	Comp 524.docx - Google Docs	https://docs.google.com/document/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D/edit?rtpof=true
+11/18/2021 11:22:57 AM	Comp 524.docx - Google Docs	https://docs.google.com/document/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D/edit
+11/18/2021 11:22:57 AM	Comp 524.docx - Google Docs	https://docs.google.com/document/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D/edit#heading=h.gjdgxs
+11/18/2021 11:22:42 AM	COMP 524 (31 unread)	https://piazza.com/class/ksf2o98md07hl?cid=13
+11/18/2021 11:21:42 AM	Sakai @ UNC-Chapel Hill : MATH233.001.FA21 : Resources	https://sakai.unc.edu/portal/site/77be2803-99ee-499f-8bb5-8d67d66ab169/tool/342702e9-34ef-4ccd-b214-b0a27c039fae
+11/18/2021 11:23:45 AM	COMP 475 (65 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=198
+11/18/2021 11:21:47 AM	math 233 remaining schedule fall 2021	https://sakai.unc.edu/access/content/group/77be2803-99ee-499f-8bb5-8d67d66ab169/math%20233%20remaining%20schedule%20fall%202021.pdf
+11/18/2021 11:23:37 AM	COMP 475 (65 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=229
+11/18/2021 11:23:43 AM	COMP 475 (65 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=170
+11/18/2021 11:23:44 AM	COMP 475 (65 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=155
+11/18/2021 20:14:37 PM	debugging - Fixing Segmentation faults in C++ - Stack Overflow	https://stackoverflow.com/questions/3718998/fixing-segmentation-faults-in-c
+11/18/2021 21:29:31 PM	performance - How to efficiently normalize vector C++ - Stack Overflow	https://stackoverflow.com/questions/57469359/how-to-efficiently-normalize-vector-c
+11/18/2021 21:34:06 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+11/18/2021 21:34:06 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/sakai-login-tool/container
+11/18/2021 21:33:59 PM	Sakai @ UNC :: Welcome	https://sakai.unc.edu/
+11/18/2021 21:34:06 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal
+11/18/2021 21:33:59 PM	Sakai @ UNC :: Welcome	http://sakai.unc.edu/welcome/
+11/18/2021 21:34:06 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal/clogin
+11/18/2021 21:35:04 PM	Sakai @ UNC-Chapel Hill : COMP475.001.FA21 : Gradebook	https://sakai.unc.edu/portal/site/f9894533-aaad-4906-92e6-d723f9aa0ceb
+11/18/2021 21:34:12 PM		https://sakai.unc.edu/portal/tool/c4f902b9-6a34-45f0-83e7-bebbbdd50808/synMainLite?time=1
+11/18/2021 21:35:14 PM	COMP 524 (32 unread)	https://piazza.com/class/ksf2o98md07hl
+11/18/2021 21:35:01 PM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Start Here	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e
+11/18/2021 21:35:06 PM	Sakai @ UNC-Chapel Hill : COMP475.001.FA21 : Syllabus	https://sakai.unc.edu/portal/site/f9894533-aaad-4906-92e6-d723f9aa0ceb/tool/4a81ce79-49c4-437c-8f33-b729c36e73b9
+11/18/2021 21:35:08 PM	Sakai @ UNC-Chapel Hill : COMP475.001.FA21 : Resources	https://sakai.unc.edu/portal/site/f9894533-aaad-4906-92e6-d723f9aa0ceb/tool/f0d81f5b-3965-42f0-83bd-3beee7800a85
+11/18/2021 21:35:16 PM	COMP 475 (64 unread)	https://piazza.com/class/ksfyua2xgk66ep
+11/18/2021 21:35:55 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=6
+11/18/2021 21:35:45 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=8
+11/18/2021 21:35:39 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=7
+11/18/2021 21:35:46 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=11
+11/18/2021 21:35:04 PM	Sakai @ UNC-Chapel Hill : COMP475.001.FA21 : Gradebook	https://sakai.unc.edu/portal/site/f9894533-aaad-4906-92e6-d723f9aa0ceb/tool/86fc61e0-dc0d-4c0b-8db8-0b2ce212a267
+11/18/2021 21:35:56 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=55
+11/18/2021 21:36:00 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=86
+11/18/2021 21:35:19 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=229
+11/18/2021 21:34:00 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJNT8IwHMa%2FytI7a9ehQMOWTDhIgkLY9ODFdGtxjV07%2B%2B98%2BfYOhgYTQ9Jbn5c%2Bv3QOvNEtyzpfm5186yT44LPRBtjxIkGdM8xyUMAMbyQwX7E8u1szGhLWOuttZTUKMgDpvLJmYQ10jXS5dO%2Bqkg%2B7dYJq71tgGAN%2F5SrsTBVK0eG8VmVptfR1CGDxIZTi7SYvULDsX6EMP%2BSducH%2BepVocV%2B%2BV1qejDsplJOVx3m%2BQcFqmaBnEVEqCJ2ScXwV8%2FFkes1JOZvsRSzKKa8mvQygkysDnhufIEpoNIr6MysIZfGYEfKEgu1p440yQpmXy0DKQQTstii2o2HMo3RwHNILUDo%2FYGXHYncG%2BnIs%2F6GL0v9Zwi%2FLOT4rGNpadt8nrpZbq1X1FWRa24%2BFk9zLBEUIp4Pl7x9IvwE%3D&RelayState=ss%3Amem%3Acbe10b91a6b5e1e7b35bebb30e28c5fe324f591a500a9bbc0f46f48ed7a3f407&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=LNJyFV3ad8caRHReOx05ZoBz5DZLCizDE9Gjxk7tc44nORuEwXTzukKQvTbaUul%2FjzG0yDzAr0nG8sUsXTC19A%2FcmWNhgilziMvfJW0Wb8TlPdcL%2FrUf4z4YBBlvg%2B1xsNO6NPY5kzvHbT%2BRmfdg89N9ZNYAejmi%2BGnNhMBTJDOVKI7GS9f11HG20FqyHvSof%2BSeGiTM6qJKZwY8oFOEjTD2M2oZhPG1bXfS7suJA5Jit%2FScX79cJg3oFBXMHNkGkCW1RZbEwGcNJf%2FKicX3hOUo1B0eF2ASLVVuHSTb4Rae4pvxBh2QeEqXB00qsFFYeHXAffoZo9VsmJM7ERik9g%3D%3D
+11/18/2021 21:35:18 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=230
+11/18/2021 21:35:44 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=1
+11/18/2021 21:40:06 PM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/
+11/18/2021 21:40:09 PM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/pa6/index.html
+11/18/2021 21:41:27 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=35
+11/18/2021 22:35:57 PM	UNC-Chapel Hill Single Sign-On	https://sakai.unc.edu/Shibboleth.sso/Logout?return=https://sso.unc.edu/idp/logout.jsp
+11/18/2021 23:14:38 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/sakai-login-tool/container
+11/18/2021 23:14:35 PM	Sakai @ UNC :: Welcome	https://sakai.unc.edu/
+11/18/2021 23:14:38 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal
+11/18/2021 23:14:35 PM	Sakai @ UNC :: Welcome	http://sakai.unc.edu/welcome/
+11/18/2021 23:14:38 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal/clogin
+11/18/2021 23:13:21 PM	GitHub	https://github.com/
+11/18/2021 23:14:41 PM	Sakai @ UNC-Chapel Hill : COMP475.001.FA21 : Overview	https://sakai.unc.edu/portal/site/f9894533-aaad-4906-92e6-d723f9aa0ceb
+11/18/2021 23:14:42 PM		https://sakai.unc.edu/portal/tool/c4f902b9-6a34-45f0-83e7-bebbbdd50808/synMainLite?time=1
+11/18/2021 23:15:47 PM	COMP 524 (32 unread)	https://piazza.com/class/ksf2o98md07hl
+11/18/2021 23:15:38 PM	Sakai @ UNC-Chapel Hill : COMP475.001.FA21 : Syllabus	https://sakai.unc.edu/portal/site/f9894533-aaad-4906-92e6-d723f9aa0ceb/tool/4a81ce79-49c4-437c-8f33-b729c36e73b9
+11/18/2021 23:14:42 PM	Sakai @ UNC-Chapel Hill : COMP475.001.FA21 : Resources	https://sakai.unc.edu/portal/site/f9894533-aaad-4906-92e6-d723f9aa0ceb/tool/f0d81f5b-3965-42f0-83bd-3beee7800a85
+11/18/2021 23:15:49 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep
+11/18/2021 23:14:43 PM	Sakai @ UNC-Chapel Hill : COMP475.001.FA21 : Gradebook	https://sakai.unc.edu/portal/site/f9894533-aaad-4906-92e6-d723f9aa0ceb/tool/86fc61e0-dc0d-4c0b-8db8-0b2ce212a267
+11/18/2021 23:13:25 PM	CS-475/pa6-andrew-gil: pa6-andrew-gil created by GitHub Classroom	https://github.com/CS-475/pa6-andrew-gil
+11/18/2021 23:14:37 PM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJba4MwFMe%2FiuS9xksvGKrg2ocVulWq28NeRtSzGRYTlxN3%2BfaztSsdjELIS%2F6Xc35kibyVHUt726g9vPeA1vlqpUJ2fIhJbxTTHAUyxVtAZiuWp3dbFrge64y2utKSOCkiGCu0WmmFfQsmB%2FMhKnjYb2PSWNshoxT5GxduryoX6p7mjShLLcE2LqKmh9CAZru8IM56mEIofsi7cKM%2Be0Xd0aH8RUg4GfdQCwOVpXm%2BI85mHZPnachnNfeCIJqHwKEOZwEfLr4Iosibl3yQIfawUWi5sjEJvMCf%2BMOJCm%2FK%2FCkLF0%2FEyU473ghVC%2FV6HUg5ipDdFkU2GZd5BIPHRQYBSZYHrOxYbC5AX4%2Flv3RJ8j9LPLNc0ouCsa1j90PiZp1pKapvJ5VSf64McAsx8QlNRsvfP5D8AA%3D%3D&RelayState=ss%3Amem%3A16ec5fb8aef5c65ebd6f48b5ba2826691a21d40328a9264308213df13cec11b9&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=UvAAH5pQnQ1zw4KVIV344AvNPc0MprzzryYM6ni9kVuuT0gwPMdNLamKZUa6uav1mHP1Tw96i0ScjNxNLST23iAxikEmiFqDTOhWIxnSQpgikJKXHpfW37zLpEIcK2MUtd42nFJBI5l8iaDv%2FNLcHCAWbfYVYel7bHn6ICOKdu9%2FhB14EcP7uzbhaf8CdxvgNdQnXXr4Cseoxazex7gO5Tp18bYHY%2FwUuADEP1tc%2FG4%2FoHdTEVowY7wcUQd5COMCY52UpQYvnM54XWKcZD74UjLGDA7OCiliDEIgz7n9rkKyYz9MykYmKFMzIkPQJFstcu%2BsJNaBHTItOCgFH6ehng%3D%3D
+11/18/2021 23:16:20 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=6
+11/18/2021 23:16:22 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=8
+11/18/2021 23:16:23 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=7
+11/18/2021 23:16:29 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=11
+11/18/2021 23:16:33 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=15
+11/18/2021 23:16:44 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=38
+11/18/2021 23:16:52 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=34
+11/18/2021 23:16:42 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=40
+11/18/2021 23:16:59 PM	COMP 475 (63 unread)	https://piazza.com/class/ksfyua2xgk66ep?cid=82
+11/19/2021 00:47:25 AM	Sakai @ UNC :: Welcome	https://sakai.unc.edu/
+11/19/2021 11:34:28 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+11/19/2021 11:34:28 AM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/sakai-login-tool/container
+11/19/2021 11:34:45 AM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Start Here	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e
+11/19/2021 11:34:23 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbb4IwGIb%2FCun9KKARaYSE6cVM3DTCdrGbpZSP0Qxa1q%2Fs8O%2BH4oxLFpPe9T30fdIF8rbpWNrbWu3hvQe0zlfbKGTHi5j0RjHNUSJTvAVkVrAsvd%2BwwPVYZ7TVQjfESRHBWKnVUivsWzAZmA8p4HG%2FiUltbYeMUuRvXLq9Ei6UPc1qWRS6AVu7iJoeQgO622Y5cVbDK6Tih7wLN%2BqzV5YdHcor2cDJuIdSGhCWZtmWOOtVTF7E3Itm82A6iXhVhFXoiSosofQLPwqjAmaDDLGHtULLlY1J4AX%2BjT%2BcKPdnbDJlQfBMnN1p461UpVSv14EUowjZXZ7vbsYxT2DwOGQQkGRxwMqOxeYC9PVY%2FkuXJP%2BzxDPLBb0oGNs69jAkrlc73Ujx7aRNoz%2BXBriFmPiEJqPl7x9IfgA%3D&RelayState=ss%3Amem%3Adcb61945de8e3c127ae3094a8795e76947cf076763c05132c2f2826d7a05ef40&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=jAJSMIVq9BasFQSUjeSptvzWSmJLXiB%2FsAE1EqqtoKH%2BncVUultfim1u4jRunn9sN3kjHo3tVhhTcqtS6Ft6Ita10GUAhHZGYHTSiiV%2FeMejp3UGlteOhOKNv8GErs87y2upNpF8Cc1iO3e9cicL95itjNKERmity6TAo9iSjWrA4CGL9r5%2BYcijkstsO1E5KyqdJd7v2zrtssCd59TTLsTidZ6pqvaSHqLMWH6%2FkZLZFlqShsAFzU4Wat7t7mx2C4JcJl6O7PxBYq6hCwP9Qd9%2Fu%2BSz%2Fq46icHjOAL1gUrBaHy7zNPt3fM%2FlDDNhJ9wl8VDsmZVZvp7B9h9M9e54A%3D%3D
+11/19/2021 11:51:26 AM	Google Translate	https://translate.google.com/?sl=en&tl=zh-CN&text=assignment&op=translate
+11/19/2021 14:20:14 PM	unc comp524 github - Google Search	https://www.google.com/search?q=unc+comp524+github&rlz=1C1SQJL_enUS810US810&oq=unc+comp524+github&aqs=chrome..69i57j0i10l5j69i60l2.6237j0j7&sourceid=chrome&ie=UTF-8
+11/19/2021 14:20:34 PM	dx404/COMP-524: UNC COMP 524 Programming Language Concepts	https://github.com/dx404/COMP-524
+11/19/2021 14:20:34 PM	COMP-524/Assignment5_Zhao_Duo at master · dx404/COMP-524	https://github.com/dx404/COMP-524/tree/master/Assignment5_Zhao_Duo
+11/19/2021 14:20:28 PM	COMP-524/Main.java at master · dx404/COMP-524	https://github.com/dx404/COMP-524/blob/master/Assignment5_Zhao_Duo/Main.java
+11/19/2021 14:24:50 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/19/2021 14:23:43 PM	Java-lisp-interpreter/AbstractSExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/19/2021 14:23:53 PM	Java-lisp-interpreter/SExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/SExpression.java
+11/19/2021 14:23:40 PM	Java-lisp-interpreter/AbstractSExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractSExpression.java
+11/19/2021 14:35:20 PM	s expression lisp - Google Search	https://www.google.com/search?q=s+expression+lisp&rlz=1C1SQJL_enUS810US810&oq=s+expression+lisp&aqs=chrome..69i57j0i22i30j0i10i22i30j0i22i30j69i64j69i60l3.2362j0j7&sourceid=chrome&ie=UTF-8
+11/19/2021 14:35:26 PM	s expression lisp example - Google Search	https://www.google.com/search?q=s+expression+lisp+example&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvIVajmZoEQvnXYZfG-RrvjYoqLygA%3A1637350518958&ei=dvyXYd7MOZCOwbkPh-qKkA8&ved=0ahUKEwje37eAlqX0AhUQRzABHQe1AvIQ4dUDCA4&uact=5&oq=s+expression+lisp+example&gs_lcp=Cgdnd3Mtd2l6EAMyCAghEBYQHRAeOgcIABBHELADOgYIABAWEB46CAgAEBYQChAeSgQIQRgAUEpYrAZg4AZoAXACeACAAdUBiAGHB5IBBTIuNC4xmAEAoAEByAEIwAEB&sclient=gws-wiz
+11/19/2021 14:35:29 PM	Microsoft Word - ch11Final.docx	https://www.cs.unm.edu/~luger/ai-final2/LISP/CH%2011_S-expressions,%20The%20Syntax%20of%20Lisp.pdf
+11/19/2021 16:11:25 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.30j0zll
+11/19/2021 16:11:28 PM	Java-lisp-interpreter/Evaluator.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/Evaluator.java&sa=D&source=docs&ust=1637359884376000&usg=AOvVaw3l3dBPt2_2Rd7neGlvSMPF
+11/19/2021 16:11:29 PM	Java-lisp-interpreter/Evaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/Evaluator.java
+11/19/2021 16:12:28 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+11/19/2021 16:12:27 PM	Sakai @ UNC :: Welcome	https://sakai.unc.edu/
+11/19/2021 16:12:28 PM	UNC-Chapel Hill Single Sign-On	https://sakai.unc.edu/portal/clogin
+11/19/2021 16:12:11 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/19/2021 16:13:39 PM	Java-lisp-interpreter/Evaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/Evaluator.java
+11/19/2021 16:12:02 PM	Java-lisp-interpreter/src/main/lisp/evaluator at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+11/19/2021 16:12:12 PM	Java-lisp-interpreter/EqEvaluator.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/basic/EqEvaluator.java&sa=D&source=docs&ust=1637359930514000&usg=AOvVaw3lR1JDK9cRjCi5KEoPsQps
+11/19/2021 16:12:12 PM	Java-lisp-interpreter/EqEvaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/basic/EqEvaluator.java
+11/19/2021 16:12:28 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbb4IwGIb%2FCum9FNApNkLC9GImbhJhu9jNUsrnaAYt61d2%2BPdDccYli0nv%2Bh76PukCeVO3LOlspXbw3gFa56upFbLjRUQ6o5jmKJEp3gAyK1iW3G9Y4HqsNdpqoWviJIhgrNRqqRV2DZgMzIcU8LjbRKSytkVGKfI3Lt1OCRfKjmaVLApdg61cRE0PoQFNt1lOnFX%2FCqn4Ie%2FCjfrslWVL%2B%2FK9rOFk3EEpDQhLs2xLnPUqIi%2B8mMNkxqdlIDj359Ob%2BX7se4UYhxMvDMNpL0PsYK3QcmUjEniBP%2FL7M88Dn%2FkBC2bPxElPG2%2BlKqV6vQ6kGETI7vI8HQ1jnsDgcUgvIPHigJUdi80F6Oux%2FJcuif9niWeWC3pRMLS17KFPXK9SXUvx7SR1rT%2BXBriFiPiExoPl7x%2BIfwA%3D&RelayState=ss%3Amem%3Aa3708366a790c34524862d30df756dadbcc0f6ef1d7d513066809a5b2e954b61&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=Ekxg872ZnlMSbK%2F5wThlgciO%2BFqNOj3I%2BfMqzXdaKltdqSQGqw%2BC1Ts5rAxoksJsIlcB79CAhxtcHrOUJ0nH5SYx1tQFtS4FtMbWJhJ%2FxJAA46Ip7aQcDCpEaDVrcaKziCeFbD8vdeUlifY%2FqVmoBt%2BuNONbQfLCZPmXj7sTMnEO%2BkzYtRmFctO1owu5tKxRPWp6sQRq35Ih892Oyf88C4xjFjSo4w5I7U07CxNIlKJpJxuABew7EgnTAV0maHo1g8YpDDL9dMSj1eHNruUsj7XB%2FlneuZEA%2BBGZQH5HJEK8IfXpedxbakkRbR07c%2FI%2Frr5W79HGgZL%2B9pBGK0YIHg%3D%3D
+11/19/2021 16:13:51 PM	Java-lisp-interpreter/ProductEvaluator.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/basic/ProductEvaluator.java&sa=D&source=docs&ust=1637360030134000&usg=AOvVaw28RZ1oXvM100NWmYTXRm8h
+11/19/2021 16:13:52 PM	Java-lisp-interpreter/ProductEvaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/basic/ProductEvaluator.java
+11/19/2021 16:14:07 PM	Java-lisp-interpreter/OperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/OperationRegisterer.java&sa=D&source=docs&ust=1637360044365000&usg=AOvVaw3VEpX4u_dcSR-m9gk_frTv
+11/19/2021 16:14:07 PM	Java-lisp-interpreter/OperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/OperationRegisterer.java
+11/19/2021 16:41:41 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/19/2021 16:39:42 PM	lisp setq - Google Search	https://www.google.com/search?q=lisp+setq&rlz=1C1SQJL_enUS810US810&oq=lisp+setq&aqs=chrome..69i57j0i512l3j0i22i30l6.1851j0j7&sourceid=chrome&ie=UTF-8
+11/19/2021 16:39:43 PM	CLHS: Special Form SETQ	http://www.lispworks.com/documentation/lw50/CLHS/Body/s_setq.htm
+11/19/2021 16:40:12 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.7w6g2jc726x7
+11/19/2021 16:41:40 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.7vfuceyreg76
+11/19/2021 16:45:09 PM	COMP 524 (34 unread)	https://piazza.com/class/ksf2o98md07hl?cid=229
+11/19/2021 16:42:33 PM	lisp cons - Google Search	https://www.google.com/search?q=lisp+cons&rlz=1C1SQJL_enUS810US810&oq=lisp+cons&aqs=chrome..69i57j69i59j35i39j69i65j69i60l3j69i61.1518j1j7&sourceid=chrome&ie=UTF-8
+11/19/2021 16:44:32 PM	CLHS: Accessor CAR, CDR, CAAR, CADR, CDAR...	https://www.google.com/url?q=http://clhs.lisp.se/Body/f_car_c.htm&sa=D&source=docs&ust=1637361869454000&usg=AOvVaw0iz8Rqnp6fSOd6XKkRQ_qj
+11/19/2021 16:44:32 PM	CLHS: Accessor CAR, CDR, CAAR, CADR, CDAR...	http://clhs.lisp.se/Body/f_car_c.htm
+11/19/2021 16:50:46 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/19/2021 16:50:42 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/ExpressionFactory.java
+11/19/2021 16:50:46 PM	Java-lisp-interpreter/TAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/TAtom.java
+11/19/2021 16:54:01 PM	Java-lisp-interpreter/ExpressionFactory.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/ExpressionFactory.java
+11/19/2021 16:54:01 PM	Java-lisp-interpreter/ExpressionFactory.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/ExpressionFactory.java&sa=D&source=docs&ust=1637362438934000&usg=AOvVaw2X2f2rslWpLqmi_liY9bgQ
+11/19/2021 17:07:00 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/19/2021 17:09:20 PM	lisp eval - Google Search	https://www.google.com/search?q=lisp+eval&rlz=1C1SQJL_enUS810US810&oq=lisp+eval&aqs=chrome..69i57j0i20i263i512j0i512l3j69i60l3.3382j0j7&sourceid=chrome&ie=UTF-8
+11/19/2021 17:08:31 PM	eval (FUNCTION)	https://www.csie.ntu.edu.tw/~course/10420/Resources/lp/node93.html
+11/19/2021 17:09:25 PM	lisp eval s-expression - Google Search	https://www.google.com/search?q=lisp+eval+s-expression&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvLpBp35lGFVjdaNL2UtDk_yCBzn1Q%3A1637359706878&ei=WiCYYbKBNfGawbkPwMy-oAM&ved=0ahUKEwiylsqduKX0AhVxTTABHUCmDzQQ4dUDCA4&uact=5&oq=lisp+eval+s-expression&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgcIABBHELADOgcIABCwAxBDOgUIABCABDoGCAAQFhAeOgcIIRAKEKABSgQIQRgAUGZY-RJgpRNoA3AAeAGAAc0BiAHVDJIBBTMuOS4xmAEAoAEByAEKwAEB&sclient=gws-wiz
+11/19/2021 17:16:09 PM	java indefinite array size - Google Search	https://www.google.com/search?q=java+indefinite+array+size&rlz=1C1SQJL_enUS810US810&oq=java+indefinite+array+size&aqs=chrome..69i57j0i22i30l2.3216j0j7&sourceid=chrome&ie=UTF-8
+11/19/2021 17:16:11 PM	Java dynamic array sizes? - Stack Overflow	https://stackoverflow.com/questions/1647260/java-dynamic-array-sizes
+11/19/2021 17:25:30 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/19/2021 17:25:14 PM	Java-lisp-interpreter/NilAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/NilAtom.java
+11/19/2021 17:25:28 PM	Java-lisp-interpreter/AbstractSExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractSExpression.java
+11/19/2021 17:25:33 PM	Java-lisp-interpreter/AbstractAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractAtom.java
+11/19/2021 17:24:18 PM	Java-lisp-interpreter/BasicOperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/BasicOperationRegisterer.java&sa=D&source=docs&ust=1637364257102000&usg=AOvVaw2oEkRdKRbqRYitMqksgr3a
+11/19/2021 17:24:19 PM	Java-lisp-interpreter/BasicOperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/BasicOperationRegisterer.java
+11/19/2021 17:31:04 PM	Java-lisp-interpreter/BasicExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/BasicExpression.java
+11/19/2021 17:31:12 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/19/2021 17:30:54 PM	Java-lisp-interpreter/SExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/SExpression.java
+11/19/2021 17:31:00 PM	Java-lisp-interpreter/AbstractSExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractSExpression.java
+11/19/2021 17:30:53 PM	File Finder	https://github.com/avitkus/Java-lisp-interpreter/find/master

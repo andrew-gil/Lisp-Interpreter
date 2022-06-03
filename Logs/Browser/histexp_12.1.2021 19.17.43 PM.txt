@@ -1,0 +1,84 @@
+12/1/2021 19:22:43 PM	Java-lisp-interpreter/src/main/lisp/evaluator/function at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator/function
+12/1/2021 19:22:44 PM	Java-lisp-interpreter/Lambda.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/function/Lambda.java
+12/1/2021 19:22:42 PM	Java-lisp-interpreter/BasicLambda.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/function/BasicLambda.java
+12/1/2021 19:22:48 PM	Java-lisp-interpreter/Atom.java at 9abd6728a6d99c7589b1e12d6492fa30a69f2129 · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/9abd6728a6d99c7589b1e12d6492fa30a69f2129/src/main/lisp/parser/terms/Atom.java#L10
+12/1/2021 19:33:20 PM	Java-lisp-interpreter/BasicLambda.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator/function
+12/1/2021 19:33:20 PM	Java-lisp-interpreter/BasicLambda.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/function/BasicLambda.java
+12/1/2021 19:35:28 PM	java iterate list - Google Search	https://www.google.com/search?q=java+iterate+list&rlz=1C1SQJL_enUS810US810&oq=java+iterate+list&aqs=chrome.0.0i512l10.2170j0j7&sourceid=chrome&ie=UTF-8
+12/1/2021 19:35:29 PM	How to iterate through Java List? Seven (7) ways to Iterate Through Loop in Java • Crunchify	https://crunchify.com/how-to-iterate-through-java-list-4-way-to-iterate-through-loop/
+12/1/2021 19:45:32 PM	How to iterate through Java List? Seven (7) ways to Iterate Through Loop in Java • Crunchify	https://crunchify.com/how-to-iterate-through-java-list-4-way-to-iterate-through-loop/
+12/1/2021 19:51:05 PM	Assignment-6.docx - Google Docs	https://docs.google.com/document/d/1vDGOP1LhUlGlwbPQf52p_k0IgNqn9Ibq/edit#
+12/1/2021 19:50:33 PM	How to iterate through Java List? Seven (7) ways to Iterate Through Loop in Java • Crunchify	https://crunchify.com/how-to-iterate-through-java-list-4-way-to-iterate-through-loop/
+12/1/2021 19:51:01 PM	Assignment-6.docx - Google Docs	https://docs.google.com/document/d/1vDGOP1LhUlGlwbPQf52p_k0IgNqn9Ibq/edit#heading=h.9jj59en4vcoq
+12/1/2021 20:01:12 PM	Assignments - Google Drive	https://drive.google.com/drive/u/0/folders/1-3bqol85BpI3zfmiXTTI7AaC7-g7XaGb
+12/1/2021 20:01:08 PM	Lectures - Google Drive	https://drive.google.com/drive/u/0/folders/14RRzusx6-WneUxkScwrdUR3MZFz_f1I9
+12/1/2021 20:01:16 PM	Assignment-2.docx - Google Docs	https://docs.google.com/document/d/1RoFtAk6TXAdGyC67g8gX_2pA3g3RbNyg/edit?usp=drive_web&ouid=112456009622891420491&rtpof=true
+12/1/2021 20:01:31 PM	Assignment-1.docx - Google Docs	https://docs.google.com/document/d/1RpNTObcpoW3bl-WDh8IxVn47LwFidF-l/edit?usp=drive_web&ouid=112456009622891420491&rtpof=true
+12/1/2021 20:01:31 PM	Assignment-1.docx - Google Docs	https://docs.google.com/document/d/1RpNTObcpoW3bl-WDh8IxVn47LwFidF-l/edit?rtpof=true
+12/1/2021 20:01:36 PM	Assignment-1.docx - Google Docs	https://docs.google.com/document/d/1RpNTObcpoW3bl-WDh8IxVn47LwFidF-l/edit
+12/1/2021 20:01:16 PM	Assignment-2.docx - Google Docs	https://docs.google.com/document/d/1RoFtAk6TXAdGyC67g8gX_2pA3g3RbNyg/edit?rtpof=true
+12/1/2021 20:01:20 PM	Assignment-2.docx - Google Docs	https://docs.google.com/document/d/1RoFtAk6TXAdGyC67g8gX_2pA3g3RbNyg/edit
+12/1/2021 20:00:35 PM	How to iterate through Java List? Seven (7) ways to Iterate Through Loop in Java • Crunchify	https://crunchify.com/how-to-iterate-through-java-list-4-way-to-iterate-through-loop/
+12/1/2021 20:06:27 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit?usp=drive_web&ouid=112456009622891420491&rtpof=true
+12/1/2021 20:06:28 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit?rtpof=true
+12/1/2021 20:06:33 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit
+12/1/2021 20:06:33 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.75wux5qudifi
+12/1/2021 20:06:36 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+12/1/2021 20:05:36 PM	How to iterate through Java List? Seven (7) ways to Iterate Through Loop in Java • Crunchify	https://crunchify.com/how-to-iterate-through-java-list-4-way-to-iterate-through-loop/
+12/1/2021 20:09:00 PM	Assignment-1.docx - Google Docs	https://docs.google.com/document/d/1RpNTObcpoW3bl-WDh8IxVn47LwFidF-l/edit?usp=drive_web&ouid=112456009622891420491&rtpof=true
+12/1/2021 20:09:00 PM	Assignment-1.docx - Google Docs	https://docs.google.com/document/d/1RpNTObcpoW3bl-WDh8IxVn47LwFidF-l/edit?rtpof=true
+12/1/2021 20:09:04 PM	Assignment-1.docx - Google Docs	https://docs.google.com/document/d/1RpNTObcpoW3bl-WDh8IxVn47LwFidF-l/edit
+12/1/2021 20:12:23 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+12/1/2021 20:10:11 PM	10-Lisp-Nested-Environment-Lambda-3.pptx - Google Slides	https://docs.google.com/presentation/d/1v61CHrccVbVLn2nAcLce5DCWSIznWtYs/edit#slide=id.p2
+12/1/2021 20:10:16 PM	10-Lisp-Nested-Environment-Lambda-3.pptx - Google Slides	https://docs.google.com/presentation/d/1v61CHrccVbVLn2nAcLce5DCWSIznWtYs/edit#slide=id.p8
+12/1/2021 20:10:17 PM	10-Lisp-Nested-Environment-Lambda-3.pptx - Google Slides	https://docs.google.com/presentation/d/1v61CHrccVbVLn2nAcLce5DCWSIznWtYs/edit#slide=id.p9
+12/1/2021 20:10:18 PM	10-Lisp-Nested-Environment-Lambda-3.pptx - Google Slides	https://docs.google.com/presentation/d/1v61CHrccVbVLn2nAcLce5DCWSIznWtYs/edit#slide=id.p10
+12/1/2021 20:10:12 PM	10-Lisp-Nested-Environment-Lambda-3.pptx - Google Slides	https://docs.google.com/presentation/d/1v61CHrccVbVLn2nAcLce5DCWSIznWtYs/edit#slide=id.p3
+12/1/2021 20:10:14 PM	10-Lisp-Nested-Environment-Lambda-3.pptx - Google Slides	https://docs.google.com/presentation/d/1v61CHrccVbVLn2nAcLce5DCWSIznWtYs/edit#slide=id.p7
+12/1/2021 20:10:21 PM	11-Lisp-FunctionExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/1vT1IF0qxAWfaai-a2G4LDGIVSc-Emcv-/edit#slide=id.p2
+12/1/2021 20:10:22 PM	11-Lisp-FunctionExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/1vT1IF0qxAWfaai-a2G4LDGIVSc-Emcv-/edit#slide=id.p3
+12/1/2021 20:10:37 PM	How to iterate through Java List? Seven (7) ways to Iterate Through Loop in Java • Crunchify	https://crunchify.com/how-to-iterate-through-java-list-4-way-to-iterate-through-loop/
+12/1/2021 20:10:14 PM	10-Lisp-Nested-Environment-Lambda-3.pptx - Google Slides	https://docs.google.com/presentation/d/1v61CHrccVbVLn2nAcLce5DCWSIznWtYs/edit#slide=id.p4
+12/1/2021 20:10:14 PM	10-Lisp-Nested-Environment-Lambda-3.pptx - Google Slides	https://docs.google.com/presentation/d/1v61CHrccVbVLn2nAcLce5DCWSIznWtYs/edit#slide=id.p5
+12/1/2021 20:10:14 PM	10-Lisp-Nested-Environment-Lambda-3.pptx - Google Slides	https://docs.google.com/presentation/d/1v61CHrccVbVLn2nAcLce5DCWSIznWtYs/edit#slide=id.p6
+12/1/2021 20:10:23 PM	11-Lisp-FunctionExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/1vT1IF0qxAWfaai-a2G4LDGIVSc-Emcv-/edit#slide=id.p4
+12/1/2021 20:10:23 PM	11-Lisp-FunctionExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/1vT1IF0qxAWfaai-a2G4LDGIVSc-Emcv-/edit#slide=id.p5
+12/1/2021 20:10:23 PM	11-Lisp-FunctionExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/1vT1IF0qxAWfaai-a2G4LDGIVSc-Emcv-/edit#slide=id.p6
+12/1/2021 20:10:24 PM	11-Lisp-FunctionExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/1vT1IF0qxAWfaai-a2G4LDGIVSc-Emcv-/edit#slide=id.p7
+12/1/2021 20:10:25 PM	11-Lisp-FunctionExpression-2.pptx - Google Slides	https://docs.google.com/presentation/d/1vT1IF0qxAWfaai-a2G4LDGIVSc-Emcv-/edit#slide=id.p9
+12/1/2021 20:11:05 PM	lisp or operator - Google Search	https://www.google.com/search?q=lisp+or+operator&rlz=1C1SQJL_enUS810US810&oq=lisp+or+operator&aqs=chrome..69i57j35i39l2j0i131i433i512j69i60l4.1940j0j7&sourceid=chrome&ie=UTF-8
+12/1/2021 20:11:07 PM	6.4. Logical Operators	https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node75.html
+12/1/2021 20:11:25 PM	lisp recursive function - Google Search	https://www.google.com/search?q=lisp+recursive+functin&rlz=1C1SQJL_enUS810US810&oq=lisp+recursive+functin&aqs=chrome..69i57j0i512j0i22i30l6.3101j0j4&sourceid=chrome&ie=UTF-8
+12/1/2021 20:11:28 PM	lisp3.pdf	https://courses.cs.washington.edu/courses/cse341/98wi/CurrentQtr/lectures/lisp3.pdf
+12/1/2021 20:12:55 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+12/1/2021 20:15:39 PM	How to iterate through Java List? Seven (7) ways to Iterate Through Loop in Java • Crunchify	https://crunchify.com/how-to-iterate-through-java-list-4-way-to-iterate-through-loop/
+12/1/2021 20:25:41 PM	How to iterate through Java List? Seven (7) ways to Iterate Through Loop in Java • Crunchify	https://crunchify.com/how-to-iterate-through-java-list-4-way-to-iterate-through-loop/
+12/1/2021 20:26:11 PM	lisp recursive functin - Google Search	https://www.google.com/search?q=lisp+recursive+functin&rlz=1C1SQJL_enUS810US810&oq=lisp+recursive+functin&aqs=chrome..69i57j0i512j0i22i30l6.3101j0j4&sourceid=chrome&ie=UTF-8
+12/1/2021 20:26:13 PM	recursion - How do recursive functions work in Lisp? - Stack Overflow	https://stackoverflow.com/questions/33462610/how-do-recursive-functions-work-in-lisp
+12/1/2021 20:30:42 PM	How to iterate through Java List? Seven (7) ways to Iterate Through Loop in Java • Crunchify	https://crunchify.com/how-to-iterate-through-java-list-4-way-to-iterate-through-loop/
+12/1/2021 20:40:43 PM	How to iterate through Java List? Seven (7) ways to Iterate Through Loop in Java • Crunchify	https://crunchify.com/how-to-iterate-through-java-list-4-way-to-iterate-through-loop/
+12/1/2021 20:48:11 PM	10-Lisp-Nested-Environment-Lambda-3.pptx - Google Slides	https://docs.google.com/presentation/d/1v61CHrccVbVLn2nAcLce5DCWSIznWtYs/edit#slide=id.p2
+12/1/2021 20:48:25 PM	10-Lisp-Nested-Environment-Lambda-2.pptx - Google Slides	https://docs.google.com/presentation/d/19uBGSe3d303C_hVpLUnVmo5acKVMPQfT/edit#slide=id.p61
+12/1/2021 20:48:30 PM	10-Lisp-Nested-Environment-Lambda-2.pptx - Google Slides	https://docs.google.com/presentation/d/19uBGSe3d303C_hVpLUnVmo5acKVMPQfT/edit#slide=id.p2
+12/1/2021 20:48:30 PM	10-Lisp-Nested-Environment-Lambda-2.pptx - Google Slides	https://docs.google.com/presentation/d/19uBGSe3d303C_hVpLUnVmo5acKVMPQfT/edit#slide=id.p3
+12/1/2021 20:48:34 PM	10-Lisp-Nested-Environment-Lambda-2.pptx - Google Slides	https://docs.google.com/presentation/d/19uBGSe3d303C_hVpLUnVmo5acKVMPQfT/edit#slide=id.p4
+12/1/2021 20:48:32 PM	10-Lisp-Nested-Environment-Lambda-2.pptx - Google Slides	https://docs.google.com/presentation/d/19uBGSe3d303C_hVpLUnVmo5acKVMPQfT/edit#slide=id.p5
+12/1/2021 20:48:25 PM	10-Lisp-Nested-Environment-Lambda-2.pptx - Google Slides	https://docs.google.com/presentation/d/19uBGSe3d303C_hVpLUnVmo5acKVMPQfT/edit#slide=id.p27
+12/1/2021 20:48:29 PM	10-Lisp-Nested-Environment-Lambda-2.pptx - Google Slides	https://docs.google.com/presentation/d/19uBGSe3d303C_hVpLUnVmo5acKVMPQfT/edit#slide=id.p65
+12/1/2021 20:48:29 PM	10-Lisp-Nested-Environment-Lambda-2.pptx - Google Slides	https://docs.google.com/presentation/d/19uBGSe3d303C_hVpLUnVmo5acKVMPQfT/edit#slide=id.p68
+12/1/2021 20:50:50 PM	How to iterate through Java List? Seven (7) ways to Iterate Through Loop in Java • Crunchify	https://crunchify.com/how-to-iterate-through-java-list-4-way-to-iterate-through-loop/
+12/1/2021 20:55:51 PM	How to iterate through Java List? Seven (7) ways to Iterate Through Loop in Java • Crunchify	https://crunchify.com/how-to-iterate-through-java-list-4-way-to-iterate-through-loop/
+12/1/2021 21:01:29 PM	Assignment-6.docx - Google Docs	https://docs.google.com/document/d/1vDGOP1LhUlGlwbPQf52p_k0IgNqn9Ibq/edit#
+12/1/2021 21:00:52 PM	How to iterate through Java List? Seven (7) ways to Iterate Through Loop in Java • Crunchify	https://crunchify.com/how-to-iterate-through-java-list-4-way-to-iterate-through-loop/
+12/1/2021 21:50:44 PM	Java-lisp-interpreter/src/main/lisp/evaluator at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+12/1/2021 21:50:36 PM	Java-lisp-interpreter/ExpressionEvaluatorFactory.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/ExpressionEvaluatorFactory.java
+12/1/2021 21:50:12 PM	Assignment-6.docx - Google Docs	https://docs.google.com/document/d/1vDGOP1LhUlGlwbPQf52p_k0IgNqn9Ibq/edit#
+12/1/2021 21:50:42 PM	Java-lisp-interpreter/src/main/lisp/evaluator/function at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator/function
+12/1/2021 21:50:58 PM	Java-lisp-interpreter/BasicExpressionEvaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/BasicExpressionEvaluator.java
+12/1/2021 21:50:13 PM	Java-lisp-interpreter/EnvironmentFactory.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/environment/EnvironmentFactory.java&sa=D&source=docs&ust=1638417012945000&usg=AOvVaw3vcIpQmRLPUylAEtUVj9fh
+12/1/2021 21:50:15 PM	Java-lisp-interpreter/EnvironmentFactory.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/environment/EnvironmentFactory.java
+12/1/2021 21:50:34 PM	Java-lisp-interpreter/ExpressionEvaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/ExpressionEvaluator.java
+12/1/2021 22:02:22 PM	Java-lisp-interpreter/src/main/lisp/evaluator at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+12/1/2021 22:02:22 PM	Java-lisp-interpreter/BasicLambda.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator/function
+12/1/2021 22:02:24 PM	Java-lisp-interpreter/BasicLambda.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/function/BasicLambda.java
+12/1/2021 22:14:43 PM	Assignment-6.docx - Google Docs	https://docs.google.com/document/d/1vDGOP1LhUlGlwbPQf52p_k0IgNqn9Ibq/edit#heading=h.dyww5nlor7vy

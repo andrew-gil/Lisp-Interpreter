@@ -1,0 +1,147 @@
+11/19/2021 17:42:35 PM	lisp list eval implementation - Google Search	https://www.google.com/search?q=lisp+list+eval+implementation&rlz=1C1SQJL_enUS810US810&oq=lisp+list+eval+implementation&aqs=chrome..69i57.6224j0j7&sourceid=chrome&ie=UTF-8
+11/19/2021 17:42:29 PM	CLHS: Function EVAL	http://clhs.lisp.se/Body/f_eval.htm
+11/19/2021 17:47:26 PM	COMP 524 (34 unread)	https://piazza.com/class/ksf2o98md07hl?cid=188
+11/19/2021 17:47:15 PM	COMP 524 (35 unread)	https://piazza.com/class/ksf2o98md07hl?cid=229
+11/19/2021 17:47:13 PM	COMP 524 (35 unread)	https://piazza.com/class/ksf2o98md07hl?cid=251
+11/19/2021 17:57:25 PM	lisp interpreter in java - Google Search	https://www.google.com/search?q=lisp+interpreter+in+java&rlz=1C1SQJL_enUS810US810&oq=lisp+interpreter+in+java&aqs=chrome..69i57j0i512l2j0i20i263i512j0i512j69i60l3.2480j0j7&sourceid=chrome&ie=UTF-8
+11/19/2021 17:57:44 PM	jtanderson/LispInterpreter: Java implementation of a Lisp interpreter	https://github.com/jtanderson/LispInterpreter
+11/19/2021 17:58:05 PM	LispInterpreter/src at master · jtanderson/LispInterpreter	https://github.com/jtanderson/LispInterpreter/tree/master/src
+11/19/2021 17:58:07 PM	LispInterpreter/src/parser at master · jtanderson/LispInterpreter	https://github.com/jtanderson/LispInterpreter/tree/master/src/parser
+11/19/2021 17:57:39 PM	LispInterpreter/src/lexer at master · jtanderson/LispInterpreter	https://github.com/jtanderson/LispInterpreter/tree/master/src/lexer
+11/19/2021 17:57:41 PM	LispInterpreter/src/helpers at master · jtanderson/LispInterpreter	https://github.com/jtanderson/LispInterpreter/tree/master/src/helpers
+11/19/2021 17:58:09 PM	LispInterpreter/SExpression.java at master · jtanderson/LispInterpreter	https://github.com/jtanderson/LispInterpreter/blob/master/src/parser/SExpression.java
+11/19/2021 18:04:32 PM	LispInterpreter/src/parser at master · jtanderson/LispInterpreter	https://github.com/jtanderson/LispInterpreter/tree/master/src/parser
+11/19/2021 18:03:26 PM	java arraylist - Google Search	https://www.google.com/search?q=java+arraylist&rlz=1C1SQJL_enUS810US810&oq=java+arraylist&aqs=chrome..69i57j35i39j0i20i263i433i512j46i175i199i512j0i433i512j69i60l3.1395j0j7&sourceid=chrome&ie=UTF-8
+11/19/2021 18:02:50 PM	ArrayList (Java Platform SE 8 )	https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
+11/19/2021 18:03:36 PM	java fastest lists - Google Search	https://www.google.com/search?q=java+fastest+lists&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvJ2dwXL8lpVQwqDc99iFhWl7VycKw%3A1637362967504&ei=Fy2YYd-CHqSEwbkP0fesqA8&ved=0ahUKEwif6q6wxKX0AhUkQjABHdE7C_UQ4dUDCA4&uact=5&oq=java+fastest+lists&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgYIABAWEB4yCAgAEBYQChAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BwgAEEcQsAM6BwgAELADEEM6BAgjECc6BAgAEEM6BwgAELEDEEM6DQgAEIAEEIcCELEDEBQ6BQgAEJECOggIABCABBCxAzoKCAAQgAQQhwIQFDoICCEQFhAdEB46BwghEAoQoAFKBAhBGABQ9AJY7D1gsz5oEHAAeACAAdIBiAHKIZIBBjAuMzEuMZgBAKABAcgBCsABAQ&sclient=gws-wiz
+11/19/2021 18:03:51 PM	java linkedlist - Google Search	https://www.google.com/search?q=java+linkedlist&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvLeT98bWPBbmKALUr30mJjp9ZqwfQ%3A1637363014884&ei=Ri2YYZ-eNbmPwbkPkY-FqA8&ved=0ahUKEwif2frGxKX0AhW5RzABHZFHAfUQ4dUDCA4&uact=5&oq=java+linkedlist&gs_lcp=Cgdnd3Mtd2l6EAMyDQgAEIAEEIcCELEDEBQyBQgAEJECMgUIABCRAjIFCAAQkQIyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjELADECc6BwgAEEcQsAM6BAgjECc6BAgAEEM6BwgAELEDEEM6CggAEIAEEIcCEBQ6CAgAEIAEELEDOggIABCxAxCRAkoECEEYAFDbA1jlCmDAC2gBcAJ4AIABnQKIAa4KkgEFMS44LjGYAQCgAQHIAQnAAQE&sclient=gws-wiz
+11/19/2021 18:03:53 PM	LinkedList (Java Platform SE 7 )	https://docs.oracle.com/javase/7/docs/api/java/util/LinkedList.html
+11/19/2021 18:04:20 PM	LispInterpreter/TreeNode.java at master · jtanderson/LispInterpreter	https://github.com/jtanderson/LispInterpreter/blob/master/src/parser/TreeNode.java
+11/19/2021 18:04:36 PM	LispInterpreter/Primitives.java at master · jtanderson/LispInterpreter	https://github.com/jtanderson/LispInterpreter/blob/master/src/parser/Primitives.java
+11/19/2021 18:06:27 PM	lisp defun - Google Search	https://www.google.com/search?q=lisp+defun&rlz=1C1SQJL_enUS810US810&oq=lisp+defun&aqs=chrome..69i57j0i67i433j35i39j69i59j35i39j69i60l3.1765j0j7&sourceid=chrome&ie=UTF-8
+11/19/2021 18:06:32 PM		https://www.gnu.org/software/emacs/manual/html_node/eintr/defun.html
+11/19/2021 18:06:57 PM	CLHS: Function LIST, LIST*	https://www.google.com/url?q=http://clhs.lisp.se/Body/f_list_.htm&sa=D&source=docs&ust=1637366814411000&usg=AOvVaw12WLNESsrtqcS-DqQyI1y4
+11/19/2021 18:06:57 PM	CLHS: Function LIST, LIST*	http://clhs.lisp.se/Body/f_list_.htm
+11/19/2021 18:14:46 PM	Arrays in Java - GeeksforGeeks	https://www.geeksforgeeks.org/arrays-in-java/
+11/19/2021 18:14:45 PM	create array java - Google Search	https://www.google.com/search?q=create+array+java&rlz=1C1SQJL_enUS810US810&oq=create+array+java&aqs=chrome..69i57j0i433i512j0i512j0i131i433i512j0i433i512j69i60l3.1910j0j7&sourceid=chrome&ie=UTF-8
+11/19/2021 18:26:34 PM	CLHS: Function EVAL	http://clhs.lisp.se/Body/f_eval.htm
+11/19/2021 18:26:34 PM	CLHS: Function EVAL	https://www.google.com/url?q=http://clhs.lisp.se/Body/f_eval.htm&sa=D&source=docs&ust=1637367991498000&usg=AOvVaw1w1jVpjTYNPypVYq4r4gGF
+11/19/2021 18:42:16 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/19/2021 18:42:14 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.30j0zll
+11/19/2021 18:46:57 PM	Java-lisp-interpreter/src/main/lisp/evaluator at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+11/19/2021 18:43:36 PM	Java-lisp-interpreter/OperationManager.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/OperationManager.java&sa=D&source=docs&ust=1637368945414000&usg=AOvVaw0Bh6gvahG23mZG7w9s86xI
+11/19/2021 18:43:36 PM	Java-lisp-interpreter/OperationManager.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/OperationManager.java
+11/19/2021 18:46:37 PM	Redirecting	https://www.google.com/url?q=http://lisp.evaluator.builtinoperationmanagersingleton&sa=D&source=docs&ust=1637369195183000&usg=AOvVaw3ySt-AUSeOQNhJGlpHlcYx
+11/19/2021 18:46:57 PM	Java-lisp-interpreter/BuiltinOperationManagerSingleton.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/BuiltinOperationManagerSingleton.java
+11/19/2021 18:47:38 PM	Java-lisp-interpreter/src/main/lisp/evaluator at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+11/19/2021 18:48:55 PM	Java-lisp-interpreter/BasicOperationManager.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/BasicOperationManager.java
+11/19/2021 18:55:58 PM	Java-lisp-interpreter/ExpressionFactory.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/ExpressionFactory.java
+11/19/2021 18:55:50 PM	Java-lisp-interpreter/src/main/lisp/evaluator at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+11/19/2021 18:54:02 PM	Java-lisp-interpreter/OperationManager.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/OperationManager.java
+11/19/2021 18:52:20 PM	Redirecting	https://www.google.com/url?q=http://lisp.evaluator.builtinoperationmanagersingleton&sa=D&source=docs&ust=1637369195183000&usg=AOvVaw3ySt-AUSeOQNhJGlpHlcYx
+11/19/2021 18:56:36 PM	Java-lisp-interpreter/BuiltinOperationManagerSingleton.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/BuiltinOperationManagerSingleton.java
+11/19/2021 18:55:38 PM	Java-lisp-interpreter/ExpressionEvaluatorFactory.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/ExpressionEvaluatorFactory.java
+11/19/2021 18:55:57 PM	Java-lisp-interpreter/ExpressionFactory.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/ExpressionFactory.java&sa=D&source=docs&ust=1637369755659000&usg=AOvVaw2QhnKRMxVPsWeRZtjRYPEh
+11/19/2021 19:02:00 PM	Java-lisp-interpreter/BasicExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/BasicExpression.java
+11/19/2021 19:01:55 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/19/2021 19:01:47 PM	Java-lisp-interpreter/SExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/SExpression.java
+11/19/2021 19:01:53 PM	Java-lisp-interpreter/AbstractSExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractSExpression.java
+11/19/2021 19:01:52 PM	Java-lisp-interpreter/AbstractAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractAtom.java
+11/19/2021 19:06:47 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.30j0zll
+11/19/2021 19:06:49 PM	Java-lisp-interpreter/Evaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/Evaluator.java
+11/19/2021 19:02:52 PM	Java-lisp-interpreter/src/main/lisp/evaluator at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+11/19/2021 19:02:43 PM	Java-lisp-interpreter/ExpressionEvaluatorSingleton.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/ExpressionEvaluatorSingleton.java
+11/19/2021 19:05:11 PM	CLHS: Function LOAD	http://clhs.lisp.se/Body/f_load.htm
+11/19/2021 19:06:49 PM	Java-lisp-interpreter/Evaluator.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/Evaluator.java&sa=D&source=docs&ust=1637368933586000&usg=AOvVaw3Wyy0tOdyVM4RU6mfToHR-
+11/19/2021 19:08:02 PM	Java-lisp-interpreter/src/main/lisp/evaluator at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+11/19/2021 19:08:32 PM	Java-lisp-interpreter/EqEvaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/basic/EqEvaluator.java
+11/19/2021 19:08:48 PM	Java-lisp-interpreter/ProductEvaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/basic/ProductEvaluator.java
+11/19/2021 19:07:58 PM	Java-lisp-interpreter/BuiltinOperationManagerSingleton.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/BuiltinOperationManagerSingleton.java
+11/19/2021 19:08:45 PM	Java-lisp-interpreter/src/main/lisp/evaluator/basic at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator/basic
+11/19/2021 19:08:25 PM	Java-lisp-interpreter/ConsEvaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/basic/ConsEvaluator.java
+11/19/2021 19:11:08 PM	try...catch - JavaScript | MDN	https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
+11/19/2021 19:14:40 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/19/2021 19:13:54 PM	Java-lisp-interpreter/EqEvaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/basic/EqEvaluator.java
+11/19/2021 19:16:48 PM	Java-lisp-interpreter/src/main/lisp/evaluator/basic at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator/basic
+11/19/2021 19:13:36 PM	Java Exceptions (Try...Catch)	https://www.w3schools.com/java/java_try_catch.asp
+11/19/2021 19:14:28 PM	Java-lisp-interpreter/EqualsEvaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/basic/EqualsEvaluator.java
+11/19/2021 19:16:55 PM	lisp eq vs equal - Google Search	https://www.google.com/search?q=lisp+eq+vs+equal&rlz=1C1SQJL_enUS810US810&oq=lisp+eq+vs+equal&aqs=chrome.0.0i512l2.2142j0j7&sourceid=chrome&ie=UTF-8
+11/19/2021 19:16:57 PM	syntax - What's the difference between eq, eql, equal and equalp, in Common Lisp? - Stack Overflow	https://stackoverflow.com/questions/547436/whats-the-difference-between-eq-eql-equal-and-equalp-in-common-lisp
+11/19/2021 19:17:19 PM	Java-lisp-interpreter/src/main/lisp/evaluator/basic at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator/basic
+11/19/2021 19:17:22 PM	Java-lisp-interpreter/ConsEvaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/basic/ConsEvaluator.java
+11/19/2021 19:17:36 PM	CLHS: Macro COND	https://www.google.com/url?q=http://clhs.lisp.se/Body/m_cond.htm&sa=D&source=docs&ust=1637371055001000&usg=AOvVaw3CpdP66yilyfO6NTwvH2KC
+11/19/2021 19:18:25 PM	CLHS: Macro COND	http://clhs.lisp.se/Body/m_cond.htm
+11/19/2021 19:18:38 PM	lisp cons - Google Search	https://www.google.com/search?q=lisp+cons&rlz=1C1SQJL_enUS810US810&oq=lisp+cons&aqs=chrome.0.69i59j69i57j69i59l2j69i60l4.1808j0j4&sourceid=chrome&ie=UTF-8
+11/19/2021 19:18:51 PM	CLHS: Function CONS	https://www.google.com/url?q=http://clhs.lisp.se/Body/f_cons.htm&sa=D&source=docs&ust=1637368926284000&usg=AOvVaw1u2rpxWbO-HCjjHhCIOQy-
+11/19/2021 19:20:27 PM	CLHS: Function CONS	http://clhs.lisp.se/Body/f_cons.htm
+11/19/2021 19:19:10 PM	CLHS: Glossary-Section C	http://clhs.lisp.se/Body/26_glo_c.htm#cons
+11/19/2021 19:20:20 PM	CLHS: Glossary-Section C	http://clhs.lisp.se/Body/26_glo_c.htm#cdr
+11/19/2021 19:41:09 PM	Java-lisp-interpreter/OperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/OperationRegisterer.java
+11/19/2021 19:41:09 PM	Java-lisp-interpreter/OperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/OperationRegisterer.java&sa=D&source=docs&ust=1637372464447000&usg=AOvVaw2m8S-wfBYM6LC4dkeqffqi
+11/19/2021 19:46:32 PM	Java-lisp-interpreter/src/main/lisp/evaluator at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+11/19/2021 19:46:31 PM	Java-lisp-interpreter/OperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/OperationRegisterer.java
+11/19/2021 19:44:37 PM	Java-lisp-interpreter/BasicOperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/BasicOperationRegisterer.java
+11/19/2021 19:45:59 PM	Java-lisp-interpreter/BuiltinOperationManagerSingleton.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/BuiltinOperationManagerSingleton.java
+11/19/2021 19:46:36 PM	Java-lisp-interpreter/BuiltInLazyOperationRegisterer.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/BuiltInLazyOperationRegisterer.java
+11/19/2021 19:51:54 PM	Java-lisp-interpreter/src/main at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main
+11/19/2021 19:51:54 PM	Java-lisp-interpreter/Main.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/Main.java
+11/19/2021 19:51:47 PM	Java-lisp-interpreter/src/main/lisp/evaluator at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+11/19/2021 20:00:15 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/19/2021 20:09:31 PM	Java-lisp-interpreter/src/main/lisp/evaluator at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator
+11/19/2021 20:11:08 PM	Java-lisp-interpreter/ProductEvaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/basic/ProductEvaluator.java
+11/19/2021 20:11:06 PM	Java-lisp-interpreter/src/main/lisp/evaluator/basic at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/evaluator/basic
+11/19/2021 20:11:06 PM	Java-lisp-interpreter/EqualsEvaluator.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/evaluator/basic/EqualsEvaluator.java
+11/19/2021 20:19:40 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/19/2021 20:19:45 PM	Java-lisp-interpreter/DecimalAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/DecimalAtom.java
+11/19/2021 20:19:44 PM	Java-lisp-interpreter/IntegerAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/IntegerAtom.java
+11/19/2021 20:19:39 PM	Java-lisp-interpreter/src/main/lisp at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp
+11/19/2021 20:19:39 PM	Java-lisp-interpreter/src/main/lisp/parser at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser
+11/19/2021 20:20:55 PM	java long - Google Search	https://www.google.com/search?q=java+long&rlz=1C1SQJL_enUS810US810&oq=java+long&aqs=chrome..69i57j35i39j0i433i512l2j0i512j69i60l3.760j0j7&sourceid=chrome&ie=UTF-8
+11/19/2021 20:20:14 PM	Long (Java Platform SE 8 )	https://docs.oracle.com/javase/8/docs/api/java/lang/Long.html
+11/19/2021 20:20:40 PM	Java Long Keyword - Javatpoint	https://www.javatpoint.com/long-keyword-in-java
+11/19/2021 20:20:58 PM	java long vs int - Google Search	https://www.google.com/search?q=java+long+vs+int&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvJUd75SV7wyEG0AYTH_dmtIFlOvYw%3A1637371209428&ei=SU2YYdG8GbaOwbkP_-q22Aw&ved=0ahUKEwiRhbaK46X0AhU2RzABHX-1DcsQ4dUDCA4&uact=5&oq=java+long+vs+int&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIICAAQFhAKEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BwgAEEcQsAM6BwgAELADEEM6BAgAEENKBAhBGABQhwFYwgZg9QZoAXAAeACAAeABiAHBB5IBBTAuNC4ymAEAoAEByAEKwAEB&sclient=gws-wiz
+11/19/2021 20:21:09 PM	java long vs double - Google Search	https://www.google.com/search?q=java+long+vs+double&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvIUsWskEcHCklwogbaiZyoJfyzNEQ%3A1637371256923&ei=eE2YYaryN7CEwbkPyMqysA4&ved=0ahUKEwiqjomh46X0AhUwQjABHUilDOYQ4dUDCA4&uact=5&oq=java+long+vs+double&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEBYQHjIFCAAQhgM6BwgAEEcQsAM6BwgAELADEEM6BQgAEJECSgQIQRgAUNwBWP0EYOMFaAFwAngAgAGXAYgBlwWSAQMwLjWYAQCgAQHIAQnAAQE&sclient=gws-wiz
+11/19/2021 20:21:32 PM	java < long - Google Search	https://www.google.com/search?q=java+%3C+long&rlz=1C1SQJL_enUS810US810&oq=java+%3C+long&aqs=chrome..69i57j35i39l2j0i433i512l2j0i67l2j0i512j0i67j0i433i512.1873j0j7&sourceid=chrome&ie=UTF-8
+11/19/2021 20:21:55 PM	java long less than - Google Search	https://www.google.com/search?q=java+long+less+than&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvJufdqcglioUWSNe4qBNf4wyEyjug%3A1637371291066&ei=m02YYYHFA-LhxgHOl6-ACg&ved=0ahUKEwjB_qyx46X0AhXisDEKHc7LC6AQ4dUDCA4&uact=5&oq=java+long+less+than&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEOgcIIxCwAxAnOgcIABBHELADOgQIIxAnOgQIABBDOgYIABAHEB46BQgAEJECOgYIABAWEB5KBAhBGABQ-gFYuh1gkB5oAXACeACAAZ8BiAHsCZIBAzQuN5gBAKABAcgBCcABAQ&sclient=gws-wiz
+11/19/2021 20:21:44 PM	Comparing Long Values in Java | Baeldung	https://www.baeldung.com/java-compare-long-values
+11/19/2021 20:22:02 PM	java long comparative operators - Google Search	https://www.google.com/search?q=java+long+comparative+operators&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvJD4fBIGp518vy7Yn-Jj1J6wzN1Lg%3A1637371297430&ei=oU2YYc_VGe-OwbkPl_CM-Aw&ved=0ahUKEwiPqrG046X0AhVvRzABHRc4A88Q4dUDCA4&uact=5&oq=java+long+comparative+operators&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgcIABBHELADOgQIIxAnOgUIABCABDoFCAAQkQI6BggAEBYQHjoICCEQFhAdEB5KBAhBGABQ3QFYqiJg3iJoA3AAeACAAa4BiAGwFpIBBDkuMTaYAQCgAQHIAQjAAQE&sclient=gws-wiz
+11/19/2021 20:22:03 PM	Why are 2 Long variables not equal with == operator in Java? - Stack Overflow	https://stackoverflow.com/questions/19485818/why-are-2-long-variables-not-equal-with-operator-in-java
+11/19/2021 20:22:47 PM	Comparing Long Values in Java | Baeldung	https://www.baeldung.com/java-compare-long-values
+11/19/2021 20:23:02 PM	java long comparative operators - Google Search	https://www.google.com/search?q=java+long+comparative+operators&rlz=1C1SQJL_enUS810US810&sxsrf=AOaemvJD4fBIGp518vy7Yn-Jj1J6wzN1Lg%3A1637371297430&ei=oU2YYc_VGe-OwbkPl_CM-Aw&ved=0ahUKEwiPqrG046X0AhVvRzABHRc4A88Q4dUDCA4&uact=5&oq=java+long+comparative+operators&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgcIABBHELADOgQIIxAnOgUIABCABDoFCAAQkQI6BggAEBYQHjoICCEQFhAdEB5KBAhBGABQ3QFYqiJg3iJoA3AAeACAAa4BiAGwFpIBBDkuMTaYAQCgAQHIAQjAAQE&sclient=gws-wiz
+11/19/2021 20:22:35 PM	Why are 2 Long variables not equal with == operator in Java? - Stack Overflow	https://stackoverflow.com/questions/19485818/why-are-2-long-variables-not-equal-with-operator-in-java
+11/19/2021 20:23:07 PM	Java Operators	https://www.w3schools.com/java/java_operators.asp
+11/19/2021 20:23:19 PM	Java Tryit Editor v1.0	https://www.w3schools.com/java/tryjava.asp?filename=demo_oper_compare4
+11/19/2021 20:33:37 PM	COMP 524 (34 unread)	https://piazza.com/class/ksf2o98md07hl
+11/19/2021 20:33:41 PM	COMP 524 (34 unread)	https://piazza.com/class/ksf2o98md07hl?cid=7
+11/19/2021 20:33:44 PM	Comp 524.docx - Google Docs	https://docs.google.com/document/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D?rtpof=true&authuser=dewan%40cs.unc.edu&usp=drive_fs
+11/19/2021 20:33:45 PM	Comp 524.docx - Google Docs	https://docs.google.com/document/u/0/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D/edit?rtpof=true&usp=drive_fs
+11/19/2021 20:33:45 PM	Comp 524.docx - Google Docs	https://docs.google.com/document/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D/edit?rtpof=true
+11/19/2021 20:33:46 PM	Comp 524.docx - Google Docs	https://docs.google.com/document/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D/edit
+11/19/2021 20:33:49 PM	Comp 524.docx - Google Docs	https://docs.google.com/document/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D/edit#heading=h.gjdgxs
+11/19/2021 20:35:43 PM	Assignments - Google Drive	https://drive.google.com/drive/u/0/folders/1-3bqol85BpI3zfmiXTTI7AaC7-g7XaGb
+11/19/2021 20:35:50 PM	Assignment-6.docx - Google Docs	https://docs.google.com/document/d/1vDGOP1LhUlGlwbPQf52p_k0IgNqn9Ibq/edit?usp=drive_web&ouid=112456009622891420491&rtpof=true
+11/19/2021 20:35:50 PM	Assignment-6.docx - Google Docs	https://docs.google.com/document/d/1vDGOP1LhUlGlwbPQf52p_k0IgNqn9Ibq/edit?rtpof=true
+11/19/2021 20:35:52 PM	Assignment-6.docx - Google Docs	https://docs.google.com/document/d/1vDGOP1LhUlGlwbPQf52p_k0IgNqn9Ibq/edit
+11/20/2021 12:25:46 PM	Comp 524.docx - Google Docs	https://docs.google.com/document/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D/edit#heading=h.gjdgxs
+11/20/2021 12:25:49 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/20/2021 20:40:47 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+11/20/2021 20:40:49 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/sakai-login-tool/container
+11/20/2021 20:40:42 PM	Sakai @ UNC :: Welcome	https://sakai.unc.edu/
+11/20/2021 20:40:49 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal
+11/20/2021 20:40:42 PM	Sakai @ UNC :: Welcome	http://sakai.unc.edu/welcome/
+11/20/2021 20:40:49 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal/clogin
+11/20/2021 20:40:53 PM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Start Here	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e
+11/20/2021 20:40:56 PM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Forums	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e/tool/3124616e-0e1b-4f94-af4d-2e23f1d6a0ce
+11/20/2021 20:41:08 PM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Forums	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e/tool/3124616e-0e1b-4f94-af4d-2e23f1d6a0ce/discussionForum/message/dfAllMessages
+11/20/2021 20:41:05 PM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Forums	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e/tool/3124616e-0e1b-4f94-af4d-2e23f1d6a0ce/discussionForum/message/dfViewThread
+11/20/2021 20:40:43 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdb4IwFIb%2FCum9FIq6rRESphczcZMI28VulkqPoxm0rKfs498PxRmXLF73%2Fej75MxQNHXL085VegPvHaDzvppaIz88xKSzmhuBCrkWDSB3Jc%2FT%2BxVnfsBba5wpTU28FBGsU0bPjcauAZuD%2FVAlPG5WMamca5FTiuJNKL%2FTpQ%2Byo3mltltTg6t8REP3oYxm67wg3qL%2FhdJin3fmRnPyKtnSvnynajgaNyCVhdLRPF8Tb7mIyYuYRtF4Eu1YBBMZSjmVAexuAG4Ek1N2dd3LEDtYanRCu5iwgIWjMByxsAhCPg74OHomXnbceKu0VPr1MpDtIEJ%2BVxTZaBjzBBYPQ3oBSWZ7rPxQbM9AX44Vv3RJ8j9LPLGc0bOCoa3lD33icpGZWpXfXlrX5nNuQTiISUhoMlj%2B3kDyAw%3D%3D&RelayState=ss%3Amem%3A365f4b6aa427cdeded5083b56e70e7faeb7bec97a9afccd70b922cc8a671f88c&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=Ce7Ofr5n4TbuEkJ3BfuSo%2Faab13Je7l9M3yzSzP6LEt9s1mQKzwvG25vJH%2Bry%2FaYuRhWb5tvGty4ejnKnXOsnb48cJ0yTq8zgjg0NxNQ1drkQTFjKrs2sYS0kcE3sx8qzNsjmYbzNkHJU0wycr%2BNtRdPa3GqJTOLBuKP6HYDmG4stfB%2FMiyndlnURXZdG3r5Kab1HqNHx1TWxwqjEe258RwrxmCEXMyz%2FYnSmfyEDElx9Zu6Qyi5cI%2FmGpdnvmjdKioIpneCBbw2Wp%2BM%2FquBqowtm5rrI%2FYnobxnPwf%2FIYBbi1T3nIBQsRdEJrvJvg%2FaCcZB94nNFXwudfOwXeRbdg%3D%3D
+11/20/2021 20:45:40 PM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Forums	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e/tool/3124616e-0e1b-4f94-af4d-2e23f1d6a0ce/discussionForum/message/dfViewThread
+11/20/2021 20:51:48 PM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Forums	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e/tool/3124616e-0e1b-4f94-af4d-2e23f1d6a0ce/discussionForum/message/dfAllMessages
+11/20/2021 20:51:51 PM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Forums	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e/tool/3124616e-0e1b-4f94-af4d-2e23f1d6a0ce/discussionForum/message/dfViewThread
+11/20/2021 20:53:18 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/
+11/20/2021 20:53:23 PM	Sakai @ UNC-Chapel Hill : COMP475.001.FA21 : Overview	https://sakai.unc.edu/portal/site/f9894533-aaad-4906-92e6-d723f9aa0ceb
+11/20/2021 20:53:24 PM		https://sakai.unc.edu/portal/tool/c4f902b9-6a34-45f0-83e7-bebbbdd50808/synMainLite?time=1
+11/20/2021 20:53:25 PM	Sakai @ UNC-Chapel Hill : COMP475.001.FA21 : Gradebook	https://sakai.unc.edu/portal/site/f9894533-aaad-4906-92e6-d723f9aa0ceb/tool/86fc61e0-dc0d-4c0b-8db8-0b2ce212a267
+11/20/2021 21:54:14 PM	UNC-Chapel Hill Single Sign-On	https://sakai.unc.edu/Shibboleth.sso/Logout?return=https://sso.unc.edu/idp/logout.jsp
+11/23/2021 17:16:41 PM	COMP 590 Class Homepage	https://www.cs.unc.edu/~stotts/COMP590-059-f21/
+11/23/2021 17:16:43 PM	COMP 590 Assignments Page	https://www.cs.unc.edu/~stotts/COMP590-059-f21/assn.html

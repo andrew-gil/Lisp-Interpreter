@@ -1,0 +1,83 @@
+11/10/2021 20:44:45 PM	COMP 524 (38 unread)	https://piazza.com/class/ksf2o98md07hl
+11/10/2021 20:40:10 PM	CLISP - an ANSI Common Lisp download | SourceForge.net	https://sourceforge.net/projects/clisp/
+11/10/2021 20:08:33 PM	Download CLISP - an ANSI Common Lisp from SourceForge.net	https://sourceforge.net/projects/clisp/files/latest/download
+11/10/2021 20:39:54 PM	Find out more about CLISP - an ANSI Common Lisp | SourceForge.net	https://sourceforge.net/projects/clisp/postdownload
+11/10/2021 20:44:49 PM	COMP 524 (38 unread)	https://piazza.com/class/ksf2o98md07hl?cid=225
+11/10/2021 20:45:38 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl?cid=219
+11/10/2021 20:45:35 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl?cid=218
+11/10/2021 20:44:53 PM	COMP 524 (38 unread)	https://piazza.com/class/ksf2o98md07hl?cid=206
+11/10/2021 20:43:24 PM	avitkus/Java-lisp-interpreter: A reduced Java implementation of a lisp interpreter	https://github.com/avitkus/Java-lisp-interpreter
+11/10/2021 20:44:05 PM	Java-lisp-interpreter/Main.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/Main.java
+11/10/2021 20:37:17 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/10/2021 16:30:28 PM	lisp env variable - Google Search	https://www.google.com/search?q=lisp+env+variable&rlz=1C1SQJL_enUS810US810&oq=lisp+env+variable&aqs=chrome..69i57j0i22i30l3.2781j1j7&sourceid=chrome&ie=UTF-8
+11/10/2021 20:37:39 PM	CLISP - an ANSI Common Lisp download | SourceForge.net	https://www.google.com/url?q=https://sourceforge.net/projects/clisp/&sa=D&source=editors&ust=1636596509923000&usg=AOvVaw3cJK3P5B-G__SYgb5peS2G
+11/10/2021 20:10:06 PM	clisp setup wizard - Google Search	https://www.google.com/search?q=clisp+setup+wizard&rlz=1C1SQJL_enUS810US810&oq=clisp+setup+wizard&aqs=chrome..69i57j33i299l2.2893j1j7&sourceid=chrome&ie=UTF-8
+11/10/2021 20:10:20 PM	Getting going with modern Common Lisp on Windows | Jonathan Fischer	http://www.jonathanfischer.net/modern-common-lisp-on-windows/
+11/10/2021 20:37:25 PM	CLISP - an ANSI Common Lisp - Browse /clisp/2.48 at SourceForge.net	http://sourceforge.net/projects/clisp/files/clisp/2.48/
+11/10/2021 20:11:07 PM	how to install clisp from tar - Google Search	https://www.google.com/search?q=how+to+install+clisp+from+tar&rlz=1C1SQJL_enUS810US810&oq=how+to+install+clisp+from+tar&aqs=chrome..69i57j0i13.5379j0j7&sourceid=chrome&ie=UTF-8
+11/10/2021 20:11:47 PM	clisp-2.49-win-mingw-big.exe free download - SourceForge	https://sourceforge.net/directory/?q=clisp-2.49-win-mingw-big.exe
+11/10/2021 20:14:34 PM	clisp-2.49-win32-mingw-big - Google Search	https://www.google.com/search?q=clisp-2.49-win32-mingw-big&rlz=1C1SQJL_enUS810US810&oq=clisp+2.49+&aqs=chrome.1.69i57j0i22i30l2j69i60l2j5i22i30i44.2601j0j4&sourceid=chrome&ie=UTF-8
+11/10/2021 20:14:26 PM	Downloading File /clisp/2.49/clisp-2.49-win32-mingw-big.zip - CLISP - an ANSI Common Lisp - OSDN	https://osdn.net/projects/sfnet_clisp/downloads/clisp/2.49/clisp-2.49-win32-mingw-big.zip/
+11/10/2021 20:39:38 PM	Download CLISP - an ANSI Common Lisp from SourceForge.net	https://sourceforge.net/projects/clisp/files/clisp/2.49/clisp-2.49-win32-mingw-big.zip/download
+11/10/2021 20:38:47 PM	CLISP - an ANSI Common Lisp - Browse Files at SourceForge.net	https://sourceforge.net/projects/clisp/files/
+11/10/2021 20:39:30 PM	CLISP - an ANSI Common Lisp - Browse /clisp at SourceForge.net	https://sourceforge.net/projects/clisp/files/clisp/
+11/10/2021 20:39:32 PM	CLISP - an ANSI Common Lisp - Browse /clisp/2.49 at SourceForge.net	https://sourceforge.net/projects/clisp/files/clisp/2.49/
+11/10/2021 20:43:23 PM	avitkus/Java-lisp-interpreter: A reduced Java implementation of a lisp interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter&sa=D&source=docs&ust=1636598602044000&usg=AOvVaw0E29BvZps9vcNBuEreZjsf
+11/10/2021 20:44:05 PM	Java-lisp-interpreter/Main.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/Main.java&sa=D&source=docs&ust=1636598641529000&usg=AOvVaw06ijTaU40j4m45EWAedwhj
+11/10/2021 20:45:12 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl?cid=239
+11/11/2021 00:15:58 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/11/2021 01:00:48 AM	s expressions lisp - YouTube	https://www.youtube.com/results?search_query=s+expressions+lisp
+11/11/2021 01:00:21 AM	List Structure programming Lecture 2: S Expression introduction also known as symbolic expressions - YouTube	https://www.youtube.com/watch?v=NNYHPyr1WiI
+11/11/2021 01:00:43 AM	Readable Lisp s-expressions: Curly-infix-, neoteric-, and sweet-expressions, 2012-08-09 - YouTube	https://www.youtube.com/watch?v=l9sFTOKa-cg
+11/11/2021 01:00:53 AM	Essentials of Interpretation. Lecture [9/18] Back to parsers: S-expression to AST - YouTube	https://www.youtube.com/watch?v=NsCwI1ByLG0
+11/11/2021 01:01:41 AM	Readable Lisp s-expressions: Curly-infix-, neoteric-, and sweet-expressions, 2012-08-09 - YouTube	https://www.youtube.com/watch?v=l9sFTOKa-cg&t=3s
+11/11/2021 03:06:07 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/11/2021 09:35:07 AM	Sakai @ UNC :: Welcome	https://sakai.unc.edu/
+11/11/2021 09:35:09 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/11/2021 09:40:53 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+11/11/2021 09:41:18 AM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/sakai-login-tool/container
+11/11/2021 09:40:57 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s2
+11/11/2021 09:41:01 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s3
+11/11/2021 09:41:05 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s4
+11/11/2021 09:41:18 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s5
+11/11/2021 09:40:53 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbT8IwGIb%2FytJ71nUywYaRIFxIgrKw6YU3pisf0ti1s1%2Fn4d%2B7MSSYGJLe9T30fdIJikrXfNb4vdnAewPog69KG%2BSHi5Q0znArUCE3ogLkXvJ8dr%2FicRjx2llvpdUkmCGC88qauTXYVOBycB9KwuNmlZK99zVySlG8CRU2RoawbWi%2BV2VpNfh9iGhpFxrTbJ0XJFi0r1BGdHlnbrQnr9rWtC3fKQ1H4wa2yoH0NM%2FXJFguUvISjyTEMB4zlkAsk2QUJdflrixvrhhAyWQrQ2xgadAL41MSRzEbsO4UbMiHEU%2FYMwmy48ZbZbbKvF4GUvYi5HdFkQ36MU%2Fg8DCkFZDppMPKD8XuDPTlWPFLl0z%2FZ4knlhN6VtC31fyhTVwuMquV%2FA5mWtvPuQPhISWM0Glv%2BfsHpj8%3D&RelayState=ss%3Amem%3A66322ea2c99c2202de86086e1d6293cdfa68b6e2952f003c199c392a5a8dfab0&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=oy9CzXtA3chrBS9NaUO8qGbpBVADnEIdMGNJtiHwKQf%2BgpuvSGTMfay%2Bt59Tyi1pTqAKLb2Z8viGYJ5pfka0H%2F%2Flyhr%2F5lJM6TmwcKvbI8RQlzLt41jFA7rUWfAKCXc%2Fd%2Bmmk12C12mLSSq4hTSq2JSg8J7c90AF0jCa4HZpth5kTabyFSgSx0EfwAnskqjOkzNAPkqPz2ej%2Bnw1b1qiSF6GuLorGmlti7I%2By7BDyM4w%2BUzwRvR6qHz%2FpW07YD08Txp%2FD4BgtuE%2FNRJtDaeCdrYvTb%2FbxVmyO7LSbZMUxWKNTgiNnckeLUl6MFUe7Cofg6wJ5jI1%2FpBIH%2Bb9JY3SiQ%3D%3D
+11/11/2021 09:45:34 AM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/
+11/11/2021 09:52:53 AM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/
+11/11/2021 09:52:55 AM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/pa6/index.html
+11/11/2021 10:12:36 AM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/
+11/11/2021 10:11:33 AM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/pa2/index.html
+11/11/2021 10:12:39 AM	COMP 475: Fall 2021	https://mikerreed.github.io/f21/pa6/index.html
+11/11/2021 11:01:51 AM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/sakai-login-tool/container
+11/11/2021 11:01:48 AM	Sakai @ UNC :: Welcome	http://sakai.unc.edu/welcome/
+11/11/2021 11:01:51 AM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal/clogin
+11/11/2021 11:01:54 AM	Sakai @ UNC-Chapel Hill : MATH233.001.FA21 : Overview	https://sakai.unc.edu/portal/site/77be2803-99ee-499f-8bb5-8d67d66ab169
+11/11/2021 11:01:55 AM		https://sakai.unc.edu/portal/tool/943e2dde-3601-417e-8f7f-eb89d3929cec/synMainLite?time=1
+11/11/2021 11:01:56 AM	Sakai @ UNC-Chapel Hill : MATH233.001.FA21 : Gradebook	https://sakai.unc.edu/portal/site/77be2803-99ee-499f-8bb5-8d67d66ab169/tool/ee9311e3-4b67-4d89-b7e4-6296e343c0c3
+11/11/2021 11:01:51 AM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/11/2021 11:01:50 AM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZLJboMwEIZfBfmemCVbrYBEk0MjpQ0KtIdeKmMmxSrY1GO6vH0hpFEqVZF8sv9l5pOXyOuqYXFrS7WH9xbQOl91pZAdH0LSGsU0R4lM8RqQWcHS%2BH7L%2FLHLGqOtFroiTowIxkqtVlphW4NJwXxIAY%2F7bUhKaxtklCJ%2F43LcKjGGoqVpKfNcV2DLMaKmfahPk12aEWfdTSEV7%2FMu3KjPXlk0tCs%2FyApOxj0U0oCwNE13xNmsQ%2FKyOLh%2BMIWZyINiNpneiLyYB%2FMiEIvuXgSTTobYwkah5cqGxHd9b%2BT1J%2FNmzPXY1H0mTnLa8VaqQqrX60DyQYTsLsuS0bDMExg8LtIJSLTssbJjsbkAfT2W%2F9Il0f8s8cxySS8KhraGPXSJm3WiKym%2Bnbiq9OfKALcQEo%2FQaLD8%2FQPRDw%3D%3D&RelayState=ss%3Amem%3A3e6786c7c119713839553f5408199f0999d9daaef500b24b7bcbe17485e5336d&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=IlBcT4yBzseiecGgLGxWuW3%2BormwGtqagjD7pnTQkcowMbPjMt1obULmiyEk20ykZCuG7WZQnbLcKGo1KgKdRID2G4RErRuIcUBH9X4f6P6i%2FBoMW5AogtnGjHEpQ9XpmGHkjG5%2B9BhOClJzEOJnL3J%2BmZoKuQzcyVDaKlx8XuB1vnP0Y7Yk8tiZDjdJs3AJyiH7bit%2BOT9yr2vefYKXCCkJ4lh%2FGTbVj660Gt69h3hp21rF8U1xSzA9h02BphClTzxnTMJQtSY%2F0UIV7TydIOrcWnRYuumC%2FXPSaleiK5nUWVz0Unk6xKy5obR9bsaspB7z6xXbUEEnKn1lVrUq6A%3D%3D
+11/11/2021 11:09:40 AM	Login - CAS – Central Authentication Service	http://virtualdropins.oasis.unc.edu/
+11/11/2021 11:09:43 AM	drop-in check-in	https://virtualdropins.oasis.unc.edu/dropin/
+11/11/2021 11:09:40 AM	Login - CAS – Central Authentication Service	https://cas6.oasis.unc.edu/cas/login?service=https%3A%2F%2Fvirtualdropins.oasis.unc.edu%2Fdropin%2Fj_spring_cas_security_check
+11/11/2021 11:09:43 AM	UNC-Chapel Hill Single Sign-On	https://cas6.oasis.unc.edu/cas/clientredirect?client_name=UNC%20Single%20Sign%20On&service=https%3A%2F%2Fvirtualdropins.oasis.unc.edu%2Fdropin%2Fj_spring_cas_security_check&locale=en
+11/11/2021 11:09:49 AM	drop-in check-in	https://virtualdropins.oasis.unc.edu/dropin/dropin/studentPage
+11/11/2021 11:09:00 AM	Academic Advising Virtual Drop-Ins - Academic Advising Program	https://advising.unc.edu/virtual-drop-ins/
+11/11/2021 11:09:43 AM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fVJNb9swDL3vVwi6FvFX3CwRYgdZi2IFuiaLnR12KRSZTgXYkidKQfvvJ9vJth4WQIAgiuR7fI%2FL1VvbkBMYlFplNA4iSkAJXUl1zOi%2BfJjM6Sr%2FtETeNknH1s6%2Bqh38coCWrBHBWF93pxW6FkwB5iQF7HdPGX21tkMWhoLjLNAcJQZOiQAq14fCRh%2BlWolGgrIvireQ7Z%2FvbgqP2oC%2FjupmoyhZW2vkwVkYEfzvGeJRVfCWUU%2F23jORituB%2FgUUUf9Bk1UXdkbXsoGwWH97SsIdVNKAsGFRbCh50EbAMFdGa94gUPJ4n9GXBOYiTTlwXkMap9P5AaZpfCuiz7MprxdJLRa3dVL5bNxyRHmCv%2FWIzlNEy5XNaBIl8STuTxnPWLRgaRSk08VPSrZGWy1080WqUW9nFBu0Yr0kyKxgPWWWBBE7jEnIvpbldrLdFCUlPy6%2BJb1v3kmFbHTqeq%2FuDEzz0Vg2MDa9Fi2312v7iKwm9ZDKvH3SvlPy7KPfHW9kLcFcc%2F8DzetI%2FLJfNP9%2Fv2X47wT5%2BflxU%2FPf&RelayState=TST-29329-9LAjHbqlJrKaz8e2-aOrK3sj9m21qonl&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=M8kBwgJVy6LR3UXRszNYhvYkZTiXOg7YRDIcRQEjmG4uTUn%2F41L%2B4uRMFlqAiB2LSDC5zLjHt1gd5x6n2cWTPClCw1rmhczPM%2BtxbecFPsLNnbsOx7%2BPv8DtO0UkfK7Q%2F%2B4DIbq77%2FGo3vKfpdwhgIJLD8xHJgSEZg52pyGYr%2BpscijQX%2FnXkxLu65GUyQ633sWxNJuGR2HV%2BOaOXHGI6qP%2FlJOXPqkziSwhuc4gaCuT%2FLNfGclpUIX80CpsJ2Cyl5plm%2BhqTzGqCAnjPnwoSyo25aw9WGh74GUiKcVWUWJ52Xe14m8jFNl0%2F3giSEi5loB%2FfXXGLhFPSI63Np9zzg%3D%3D
+11/11/2021 11:09:43 AM	drop-in check-in	https://virtualdropins.oasis.unc.edu/dropin/j_spring_cas_security_check?ticket=ST-19906-nb6t-f-lcYOALyIgw6R0aX6PPC8-ed7d18d18d80
+11/11/2021 11:33:53 AM	Calculus III - Fundamental Theorem for Line Integrals	https://tutorial.math.lamar.edu/classes/calciii/fundthmlineintegrals.aspx
+11/11/2021 23:46:35 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/12/2021 00:40:42 AM	Dr. STONE Season 2 Episode 11, PROLOGUE OF Dr. STONE, - Watch on Crunchyroll	https://www.crunchyroll.com/dr-stone/episode-11-prologue-of-dr-stone-801916
+11/12/2021 12:18:36 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/12/2021 13:30:59 PM	CLISP - an ANSI Common Lisp download | SourceForge.net	https://sourceforge.net/projects/clisp/
+11/12/2021 13:32:49 PM	Find out more about CLISP - an ANSI Common Lisp | SourceForge.net	https://sourceforge.net/projects/clisp/postdownload
+11/12/2021 13:32:25 PM	Downloading File /clisp/2.49/clisp-2.49-win32-mingw-big.zip - CLISP - an ANSI Common Lisp - OSDN	https://osdn.net/projects/sfnet_clisp/downloads/clisp/2.49/clisp-2.49-win32-mingw-big.zip/
+11/12/2021 13:32:33 PM	Download CLISP - an ANSI Common Lisp from SourceForge.net	https://sourceforge.net/projects/clisp/files/clisp/2.49/clisp-2.49-win32-mingw-big.zip/download
+11/12/2021 13:31:11 PM	CLISP - an ANSI Common Lisp - Browse Files at SourceForge.net	https://sourceforge.net/projects/clisp/files/
+11/12/2021 13:30:00 PM	install clisp windows 10 - YouTube	https://www.youtube.com/results?search_query=install+clisp+windows+10
+11/12/2021 13:29:46 PM	Installing Common Lisp, Emacs, Slime & Quicklisp - YouTube	https://www.youtube.com/watch?v=VnWVu8VVDbI&t=601s
+11/12/2021 13:30:02 PM	LISP Programming Tutorial: Hello World Program: Getting Started with LISP - YouTube	https://www.youtube.com/watch?v=Bp_QV6ltVZU
+11/12/2021 13:32:22 PM	clisp-2.49-win32-mingw-big - Google Search	https://www.google.com/search?q=clisp-2.49-win32-mingw-big&rlz=1C1SQJL_enUS810US810&oq=clisp-2.49-win32-mingw-big&aqs=chrome..69i57j69i60l2.2357j0j7&sourceid=chrome&ie=UTF-8
+11/12/2021 13:32:33 PM	Download CLISP - an ANSI Common Lisp from SourceForge.net	https://osdn.net/frs/g_redir.php?m=jaist&f=clisp%2Fclisp%2F2.49%2Fclisp-2.49-win32-mingw-big.zip
+11/12/2021 13:34:41 PM	install clisp windows 10 - YouTube	https://www.youtube.com/results?search_query=install+clisp+windows+10
+11/12/2021 13:34:36 PM	1 Clisp Installation - YouTube	https://www.youtube.com/watch?v=Dckwtr0mSuQ
+11/12/2021 19:17:21 PM	Java-lisp-interpreter/BasicExpression.java at master · avitkus/Java-lisp-interpreter	https://www.google.com/url?q=https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/BasicExpression.java&sa=D&source=docs&ust=1636766238557000&usg=AOvVaw2qd6jbkUihgKmLJI-Z5ush
+11/12/2021 19:17:22 PM	Java-lisp-interpreter/BasicExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/BasicExpression.java

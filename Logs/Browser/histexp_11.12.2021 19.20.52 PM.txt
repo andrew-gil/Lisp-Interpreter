@@ -1,0 +1,44 @@
+11/12/2021 19:22:01 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.h2rs38jnvmz3
+11/12/2021 19:24:08 PM	eclipse java view - Google Search	https://www.google.com/search?q=eclipse+java+view&rlz=1C1SQJL_enUS810US810&oq=eclipse+java+view&aqs=chrome..69i57j0i512l3j0i22i30l6.2006j0j7&sourceid=chrome&ie=UTF-8
+11/12/2021 19:24:09 PM	Eclipse - Perspectives	https://www.tutorialspoint.com/eclipse/eclipse_perspectives.htm
+11/12/2021 19:31:01 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl
+11/12/2021 19:31:15 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl?cid=97
+11/12/2021 19:31:16 PM	COMP 524 (37 unread)	https://piazza.com/class/ksf2o98md07hl?cid=227
+11/12/2021 19:34:03 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/12/2021 19:32:54 PM	Java-lisp-interpreter/NilAtom.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/NilAtom.java
+11/12/2021 19:34:06 PM	Java-lisp-interpreter/SExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/SExpression.java
+11/12/2021 19:45:54 PM	java - What is a Question Mark "?" and Colon ":" Operator Used for? - Stack Overflow	https://stackoverflow.com/questions/10336899/what-is-a-question-mark-and-colon-operator-used-for
+11/12/2021 19:50:15 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/12/2021 19:45:55 PM	java question mark - Google Search	https://www.google.com/search?q=java+question+mark&rlz=1C1SQJL_enUS810US810&oq=java+question+mark&aqs=chrome..69i57j35i39l2j0i20i263i433i512j69i60j69i65j69i60l2.1732j0j7&sourceid=chrome&ie=UTF-8
+11/12/2021 19:50:15 PM	Java-lisp-interpreter/AbstractSExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/AbstractSExpression.java
+11/12/2021 19:59:14 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#
+11/12/2021 19:59:14 PM	Assignment-5.docx - Google Docs	https://docs.google.com/document/d/1NUkkRpZjGgYxg6Rlo2WphVVY2hMW0l_S/edit#heading=h.2aek5k2plcx4
+11/12/2021 20:17:24 PM	COMP 524 (35 unread)	https://piazza.com/class/ksf2o98md07hl?cid=227
+11/12/2021 20:13:58 PM	Java-lisp-interpreter/src/main/lisp/parser/terms at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/tree/master/src/main/lisp/parser/terms
+11/12/2021 20:13:59 PM	Java-lisp-interpreter/SExpression.java at master · avitkus/Java-lisp-interpreter	https://github.com/avitkus/Java-lisp-interpreter/blob/master/src/main/lisp/parser/terms/SExpression.java
+11/12/2021 20:20:37 PM	COMP 524 (34 unread)	https://piazza.com/class/ksf2o98md07hl?cid=233
+11/12/2021 20:17:14 PM	COMP 524 (35 unread)	https://piazza.com/class/ksf2o98md07hl?cid=228
+11/12/2021 20:17:25 PM	COMP 524 (34 unread)	https://piazza.com/class/ksf2o98md07hl?cid=229
+11/12/2021 20:30:42 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+11/12/2021 20:30:43 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/sakai-login-tool/container
+11/12/2021 20:30:34 PM	Sakai @ UNC :: Welcome	https://sakai.unc.edu/
+11/12/2021 20:30:43 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal
+11/12/2021 20:30:34 PM	Sakai @ UNC :: Welcome	http://sakai.unc.edu/welcome/
+11/12/2021 20:30:43 PM	Sakai @ UNC-Chapel Hill : Home : Overview	https://sakai.unc.edu/portal/clogin
+11/12/2021 20:26:45 PM	override abstract class method java - Google Search	https://www.google.com/search?q=override+abstract+class+method+java&rlz=1C1SQJL_enUS810US810&oq=override+abstract+class+method+java&aqs=chrome.0.0i512j0i22i30l3.3448j0j7&sourceid=chrome&ie=UTF-8
+11/12/2021 20:26:46 PM	Java how to optional override method in abstract class? - Stack Overflow	https://stackoverflow.com/questions/12620365/java-how-to-optional-override-method-in-abstract-class
+11/12/2021 20:30:37 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbT4MwGIb%2FCum9lIJbZjNIcLtwyXRkoBfemFK%2BSSO02K94%2BPeyMZeZmCW963vo%2B6RzFG3T8bR3td7Cew%2FovK%2B20cgPFzHpreZGoEKuRQvIneR5er%2FmoR%2FwzhpnpGmIlyKCdcrohdHYt2BzsB9KwuN2HZPauQ45pSjehPJ7LX2oeprXqixNA672EQ3dh4Y02%2BQF8ZbDK5QW%2B7wzN5qTV1UdHcp3qoGjcQuVsiAdzfMN8VbLmLxMJoLBjpUs2E2rEoIgkoJFU8FuQMrr2WyQIfaw0uiEdjEJg5BdseFERcB4FPBo%2Bky87LjxVulK6dfLQMpRhPyuKLKrccwTWDwMGQQkme%2Bx8kOxPQN9OVb80iXJ%2FyzxxHJOzwrGto4%2FDImrZWYaJb%2B9tGnM58KCcBATRmgyWv7%2BgeQH&RelayState=ss%3Amem%3Adcb8a2ec439589cebd901902a70d3dc3a6a96879c64bc8e09fef54d24bf24731&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=g40PkTGFnsN1nmoUArkFFV1IuIv490KDKVvwMlwu1ozcbnSSVMEqioOI7XP9cUBWxFajm6t9qsdQeIcYQ27YhjR4VEPp%2B6wesuZ5zaNbFvIiyPZvpivFRvwItY6a4spGDzVndEF%2B2yQgF%2F23lTXlqgBEA7T6g1exyadHUsNi%2F8v9M69JQwErGLVrzNYHG8ecyn%2BqhZc6E5bQBk77N71E7hfQ6F8dcYPY%2FEpq2VogICHG8iaB%2B2uIsWm%2BO4aaki7KvBlqzx4OaGI8XN2O6qjuKRcAf12wZrO8tMXLRD7ds%2B3oexJ5kXS9Z9l1ImfM0SxKHYEr0bBEoq3WLpQ39VHRIA%3D%3D
+11/12/2021 20:30:59 PM	Sakai @ UNC-Chapel Hill : COMP524.001.FA21 : Announcements	https://sakai.unc.edu/portal/site/a7e92904-8c33-4c09-862e-9db03c7d94a3
+11/12/2021 20:35:11 PM	Sakai @ UNC-Chapel Hill : COMP524.001.FA21 : Announcements	https://sakai.unc.edu/portal/site/a7e92904-8c33-4c09-862e-9db03c7d94a3/tool/fbd41066-6c3c-48b9-90ce-845a7ca4b554
+11/12/2021 20:35:14 PM	Sakai @ UNC-Chapel Hill : COMP524.001.FA21 : Announcements	https://sakai.unc.edu/portal/site/a7e92904-8c33-4c09-862e-9db03c7d94a3/tool/fbd41066-6c3c-48b9-90ce-845a7ca4b554?itemReference=/announcement/msg/a7e92904-8c33-4c09-862e-9db03c7d94a3/main/4aca634c-b99d-428b-8485-90756cdfb761&sakai_action=doShowmetadata
+11/12/2021 20:35:28 PM	COMP 524 (32 unread)	https://piazza.com/class/ksf2o98md07hl?cid=7
+11/12/2021 20:30:57 PM	Sakai @ UNC-Chapel Hill : EDUC615.001.FA21 : Start Here	https://sakai.unc.edu/portal/site/58e03b5f-b9a0-40c8-a7d0-25e51371a71e
+11/12/2021 20:35:10 PM	Sakai @ UNC-Chapel Hill : COMP524.001.FA21 : Assignments	https://sakai.unc.edu/portal/site/a7e92904-8c33-4c09-862e-9db03c7d94a3/tool/dce85a29-cd17-4368-974e-a4384c6400e4
+11/12/2021 20:35:31 PM	Comp 524.docx - Google Docs	https://docs.google.com/document/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D?rtpof=true&authuser=dewan%40cs.unc.edu&usp=drive_fs
+11/12/2021 20:35:32 PM	Comp 524.docx - Google Docs	https://docs.google.com/document/u/0/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D/edit?rtpof=true&usp=drive_fs
+11/12/2021 20:35:32 PM	Comp 524.docx - Google Docs	https://docs.google.com/document/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D/edit?rtpof=true
+11/12/2021 20:35:39 PM	Comp 524.docx - Google Docs	https://docs.google.com/document/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D/edit
+11/12/2021 20:35:39 PM	Comp 524.docx - Google Docs	https://docs.google.com/document/d/1zfC0ANxB2qP7Ptf8_vTfZsn43yGBnQ0D/edit#heading=h.gjdgxs
+11/12/2021 20:41:10 PM	pdewan/PLTeaching: Example Cide used in UNC Comp 524: Programming Language Concepts	https://github.com/pdewan/PLTeaching
+11/12/2021 20:41:10 PM	PLTeaching/PL_Lisp/Logs at master · pdewan/PLTeaching	https://github.com/pdewan/PLTeaching/tree/master/PL_Lisp/Logs
+11/12/2021 20:41:08 PM	PLTeaching/PL_Lisp/Logs/Eclipse at master · pdewan/PLTeaching	https://github.com/pdewan/PLTeaching/tree/master/PL_Lisp/Logs/Eclipse
